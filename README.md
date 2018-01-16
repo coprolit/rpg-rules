@@ -30,6 +30,7 @@ Any complex or unusual activity not involving significant physical movement (tra
 **Repair**, **Construction** and **Research** tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
 
 Resolved on:
+
  | Action | Chart |
  | --- | --- |
  | Perception, orientation, data-gathering | Perception column, `Alternate Personal Maneuver Chart` |
