@@ -79,23 +79,23 @@ Dive for cover | 1 | x5 pace, Medium MM. End up prone, unless the GM allows for 
 Acrobatics / Tumble / etc. | 2 | Pr. 3m
 Picking Up Something Off Of The Ground | 3
 Mount/Dismount | 5
-* |
+- |
 Draw weapon | 2
 Sheath weapon | 3
 Pick up weapon | 4
 Change weapon | 5 (3+2)
 Ammo Clip reload | 5
-* |
+- |
 Melee (Attack / Parry) | 8
 Thrown | 6
 Fire firearm | 4
 Missile | 6
 Dodge | 1+ | Extremely Hard MM. Ag + Qu bonuses or Acrobatics skill. Any numeric results are applied to the character’s DB.
 Disengage From Melee | 3 | Last 2 seconds are movement. May move 3m.
-* |
+- |
 Orientation Maneuver | 0-1 | Result is a delay before any deliberate action. Failure = 5 sec., Partial success = 4 sec., Near success = 2 sec, Success = 0 sec.
 Observation Maneuver | 7 | Perception roll, -10 pr. sec. less
-* |
+- |
 Misc. Static Action | 10+
 Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
