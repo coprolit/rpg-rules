@@ -62,10 +62,10 @@ Resolved on an appropriate attack table.
 During combat or other tactical situations that necessitates tracking of environment, player and NPC actions are tracked in intervals of seconds (second-by-second).
 A player states an action for his character, spend the necessary time to complete the action, and may then declare another action. 
 
-`The Action/Time Table` is a list of basic actions that most characters attempt during tactical situations:
-| Action | Seconds | |
-| --- | --- | --- |
-Movement | 1+ | distance = WMR x pace / sek., 1 pace change pr. sec.
+The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
+Action | Seconds | |
+--- | --- | ---
+Movement (walk, run, etc.) | 1+ | 1 pace change allowed pr. sec.
 Standing Up From Seated Position | 1 
 Kneel/crouch to standing | 2 
 Prone to kneel | 2
@@ -76,9 +76,52 @@ Dive for cover | 1 | x5 pace, Medium MM. End up prone, unless the GM allows for 
 Acrobatics / Tumble / etc. | 2 | Pr. 3m
 Picking Up Something Off Of The Ground | 3
 Mount/Dismount | 5
-|||
+* |
 Draw weapon | 2
 Sheath weapon | 3
 Pick up weapon | 4
-Change weapon 
+Change weapon | 5 (3+2)
+Ammo Clip reload | 5
+* |
+Melee (Attack / Parry) | 8
+Thrown | 6
+Fire firearm | 4
+Missile | 6
+Dodge | 1+ | Extremely Hard MM. Ag + Qu bonuses or Acrobatics skill. Any numeric results are applied to the character’s DB.
+Disengage From Melee | 3 | Last 2 seconds are movement. May move 3m.
+* |
+Orientation Maneuver | 0-1 | Perception roll, -20. 
+Observation Maneuver | 7 | Perception roll, -10 pr. sec. less
+* |
+Misc. Static Action | 10+
+Power supply reload | 8-10
+Apply first aid | 10 | per hit/round
+
+`Orientation Maneuver`: Perception roll, -20. After confusing action / surprising situation. Result is a delay before any deliberate action:
+- Failure 100%: 5 sec.
+- Partial success 80%: 4 sec.
+- Near success 50%: 2 sec,
+- Success 0%: 0 sec.
+
+`Melee`: combatant is engaged in melee if:
+- A foe attacked in the previous second, and
+- That foe is still within striking distance (i.e., usually within 3m), and
+- That foe’s action for the current second is to melee the combatant.
  
+##### Simultaneous actions
+Combatants can have multiple simultaneously occurring actions (even movement), if logical.
+e. Successful Quick Draw, Dropping An Object, & Instantaneous Spells are 0 second actions.
+If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
+
+##### Movement
+Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10
+`Moving Rate`: Walking Moving Rate x Pace multiplier / sec.
+
+Pace multiplier | Description | Normal MM Difficulty (Unencumbered, no pressure) | Modifier to simultaneous actions
+--- | --- | --- | ---
+x½ | Walking slow | - | 0
+x1 | Walking (base) | - | -10 (Hard)
+x1½ | Jogging | - | -20 (Very Hard)
+
+
+
