@@ -4,8 +4,10 @@
 `Open-ended roll`: **1d100** roll that can yield a result lower than 01 or higher than 100.
 A roll under **06** calls for a second roll to be made and subtracted from the first.
 A roll over **95** calls for a second roll to be made and added to the first.
+
 `Modifier`: **bonus** or **penalty** which is applied to the dice roll, _e.g. skill bonuses,
 stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation_.
+
 `Maneuver roll`: modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
 
 # Character Activity Rules
