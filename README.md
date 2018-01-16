@@ -65,6 +65,7 @@ During combat or other tactical situations that necessitates tracking of environ
 A player states an action for his character, spend the necessary time to complete the action, and may then declare another action. 
 
 The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
+
 Action | Seconds | |
 --- | --- | ---
 Movement (walk, run, etc.) | 1+ | 1 pace change allowed pr. sec.
