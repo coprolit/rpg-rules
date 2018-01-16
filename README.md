@@ -1,4 +1,4 @@
-:information_source: _Compiled and modified RPG rules for the **The Long Tomorrow** campaign. Based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
+:information_source: _Compiled and modified RPG rules and charts for the **The Long Tomorrow** campaign. Based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
 
 ### Dice rolling conventions
 `Open-ended roll`: **1d100** roll that can yield a result lower than 01 or higher than 100.
@@ -12,8 +12,8 @@ stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situ
 
 # Character Activity Rules
 The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
-## Simple Actions
-Normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. are simple actions that **do not require any rolls to resolve** (the player simply states what he intends his character to do).
+
+`simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. are simple actions that **do not require any rolls to resolve** (the player simply states what he intends his character to do).
 
 ## Maneuvers
 An action performed by a character that entails an element of risk, or requires complex movement, unusual concentration, or thought under pressure is called a `Maneuver` and requires a `Maneuver Roll` to resolve its outcome.
@@ -37,9 +37,13 @@ First Aid | Using Healing Equipment column, `the Alternate Personal Maneuver Tab
 Repairs | `Malfunction / Repair Chart`.
 Research and construction | `Construction / Research Chart`.
 
+[`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
+
 ### Moving Maneuvers
 Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 Resolved on the `Personal Maneuver Chart`.
+
+[`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
 ### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
