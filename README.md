@@ -24,10 +24,12 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 3. If he decides to perform the maneuver, an `open-ended roll` is made, adding appropriate bonus along with any other applicable modifications.
 4. A result is obtained by applying the modified roll to the appropriate chart.
 
-##### Static Maneuvers
+#### Static Maneuvers
 Any complex or unusual activity not involving significant physical movement (tracking, picking locks, disarming traps, security bypassing, hiding, astrogation, repairs, equipment operation, perception, influencing other characters, etc.).
 
 **Repair**, **Construction** and **Research** tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
+
+`Orientation Maneuver`: If a character takes a confusing action (e.g., teleports, dives, falls, is knocked down, etc.) or is surprised, the GM may need to determine the awareness and readiness of the character. In this case, the GM may require an orientation roll -20.
 
 Resolved on:
 
@@ -41,19 +43,19 @@ Research and construction | `Construction / Research Chart`.
 
 [`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
-##### Moving Maneuvers
+#### Moving Maneuvers
 Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 
 Resolved on the `Personal Maneuver Chart`.
 
 [`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
-##### Vehicular Maneuvers
+#### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
 
 Resolved on the `Vehicular Maneuver/Astrogation Chart`.
 
-##### Attacks
+#### Attacks
 Any attempts to affect or harm an opponent with or without a weapon.
 
 Resolved on an appropriate attack table.
@@ -90,38 +92,38 @@ Missile | 6
 Dodge | 1+ | Extremely Hard MM. Ag + Qu bonuses or Acrobatics skill. Any numeric results are applied to the character’s DB.
 Disengage From Melee | 3 | Last 2 seconds are movement. May move 3m.
 * |
-Orientation Maneuver | 0-1 | Perception roll, -20. 
+Orientation Maneuver | 0-1 | Result is a delay before any deliberate action. Failure = 5 sec., Partial success = 4 sec., Near success = 2 sec, Success = 0 sec.
 Observation Maneuver | 7 | Perception roll, -10 pr. sec. less
 * |
 Misc. Static Action | 10+
 Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
 
-`Orientation Maneuver`: Perception roll, -20. After confusing action / surprising situation. Result is a delay before any deliberate action:
-- Failure 100%: 5 sec.
-- Partial success 80%: 4 sec.
-- Near success 50%: 2 sec,
-- Success 0%: 0 sec.
-
 `Melee`: combatant is engaged in melee if:
 - A foe attacked in the previous second, and
 - That foe is still within striking distance (i.e., usually within 3m), and
 - That foe’s action for the current second is to melee the combatant.
- 
-##### Simultaneous actions
+
+#### Simultaneous actions
 Combatants can have multiple simultaneously occurring actions (even movement), if logical.
 e. Successful Quick Draw, Dropping An Object, & Instantaneous Spells are 0 second actions.
 If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
 
-##### Movement
+#### Movement
 Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10
 `Moving Rate`: Walking Moving Rate x Pace multiplier / sec.
 
-Pace multiplier | Description | Normal MM Difficulty (Unencumbered, no pressure) | Modifier to simultaneous actions
+Pace multiplier | Description | MM Difficulty (Unencumbered, no pressure) | Modifier to simultaneous actions
 --- | --- | --- | ---
 x½ | Walking slow | - | 0
 x1 | Walking (base) | - | -10 (Hard)
 x1½ | Jogging | - | -20 (Very Hard)
+x2 | Running | - | -30 (Extremely Hard)
+x3 | Running fast | Easy | -40
+x4 | Dashing | Light | -50 (Sheer Folly)
+x5 | Sprinting | Medium | -60
 
+MM task results apply as normal. The result is the percentage of the distance they would normally move given their rate of speed.
+Pace can increase or decrease by 1 multiple once per second, unless GM rules otherwise appropriate.
 
 
