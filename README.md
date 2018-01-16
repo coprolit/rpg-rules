@@ -1,6 +1,6 @@
 :information_source: _Compiled and modified RPG rules and charts for the **The Long Tomorrow** campaign. Based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
 
-### Dice rolling conventions
+### Some Dice rolling conventions
 `Open-ended roll`: **1d100** roll that can yield a result lower than 01 or higher than 100.
 A roll under **06** calls for a second roll to be made and subtracted from the first.
 A roll over **95** calls for a second roll to be made and added to the first.
@@ -13,7 +13,7 @@ stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situ
 # Character Activity Rules
 The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
 
-`simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. are simple actions that **do not require any rolls to resolve** (the player simply states what he intends his character to do).
+`simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. that **do not require any rolls to resolve** (the player simply states what he intends his character to do).
 
 ## Maneuvers
 An action performed by a character that entails an element of risk, or requires complex movement, unusual concentration, or thought under pressure is called a `Maneuver` and requires a `Maneuver Roll` to resolve its outcome.
@@ -24,7 +24,7 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 3. If he decides to perform the maneuver, an `open-ended roll` is made, adding appropriate bonus along with any other applicable modifications.
 4. A result is obtained by applying the modified roll to the appropriate chart.
 
-### Static Maneuver
+##### Static Maneuvers
 Any complex or unusual activity not involving significant physical movement (tracking, picking locks, disarming traps, security bypassing, hiding, astrogation, repairs, equipment operation, perception, influencing other characters, etc.).
 
 **Repair**, **Construction** and **Research** tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
@@ -41,19 +41,44 @@ Research and construction | `Construction / Research Chart`.
 
 [`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
-### Moving Maneuvers
+##### Moving Maneuvers
 Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 
 Resolved on the `Personal Maneuver Chart`.
 
 [`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
-### Vehicular Maneuvers
+##### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
 
 Resolved on the `Vehicular Maneuver/Astrogation Chart`.
 
-### Attacks
+##### Attacks
 Any attempts to affect or harm an opponent with or without a weapon.
 
 Resolved on an appropriate attack table.
+
+## Tactical Activity Tracking System
+During combat or other tactical situations that necessitates tracking of environment, player and NPC actions are tracked in intervals of seconds (second-by-second).
+A player states an action for his character, spend the necessary time to complete the action, and may then declare another action. 
+
+`The Action/Time Table` is a list of basic actions that most characters attempt during tactical situations:
+| Action | Seconds | |
+| --- | --- | --- |
+Movement | 1+ | distance = WMR x pace / sek., 1 pace change pr. sec.
+Standing Up From Seated Position | 1 
+Kneel/crouch to standing | 2 
+Prone to kneel | 2
+Prone to standing | 4 (2 + 2)
+Rapid Drop To Ground | 1
+Careful Drop To Ground | 2
+Dive for cover | 1 | x5 pace, Medium MM. End up prone, unless the GM allows for another roll for acrobatics.
+Acrobatics / Tumble / etc. | 2 | Pr. 3m
+Picking Up Something Off Of The Ground | 3
+Mount/Dismount | 5
+|||
+Draw weapon | 2
+Sheath weapon | 3
+Pick up weapon | 4
+Change weapon 
+ 
