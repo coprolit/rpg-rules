@@ -3,7 +3,7 @@
 This indicates a `term`.
 
 # Character Activity Rules
-The types of actions a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
+The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
 ## Simple Actions
 Normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. are simple actions that **do not require any rolls to resolve** (the player simply states what he intends his character to do).
 
