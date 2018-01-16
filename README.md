@@ -28,10 +28,11 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 Any complex or unusual activity not involving significant physical movement (tracking, picking locks, disarming traps, security bypassing, hiding, astrogation, repairs, equipment operation, perception, influencing other characters, etc.).
 
 **Repair**, **Construction** and **Research** tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
+
 Resolved on:
- Action | Chart 
- --- | --- 
- Perception, orientation, data-gathering | Perception column, `Alternate Personal Maneuver Chart`
+ | Action | Chart |
+ | --- | --- |
+ | Perception, orientation, data-gathering | Perception column, `Alternate Personal Maneuver Chart` |
 Picking locks, Disarm traps, Bypass (mechanical, electronic, software) | Picking Locks And Disarming Traps column, `Alternate Personal Maneuver Chart`
 First Aid | Using Healing Equipment column, `the Alternate Personal Maneuver Table`
 Repairs | `Malfunction / Repair Chart`.
@@ -41,14 +42,17 @@ Research and construction | `Construction / Research Chart`.
 
 ### Moving Maneuvers
 Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
+
 Resolved on the `Personal Maneuver Chart`.
 
 [`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
 ### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
+
 Resolved on the `Vehicular Maneuver/Astrogation Chart`.
 
 ### Attacks
 Any attempts to affect or harm an opponent with or without a weapon.
+
 Resolved on an appropriate attack table.
