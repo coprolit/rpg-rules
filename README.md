@@ -2,9 +2,7 @@
 
 ### Some Dice rolling conventions
 `Open-ended roll`: **1d100** roll that can yield a result lower than 01 or higher than 100.
-
 A roll under **06** calls for a second roll to be made and subtracted from the first.
-
 A roll over **95** calls for a second roll to be made and added to the first.
 
 `Modifier`: **bonus** or **penalty** which is applied to the dice roll, _e.g. skill bonuses,
