@@ -27,10 +27,15 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 
 `Moving Maneuvers` Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 
-Resolved on the `Personal Maneuver Chart`.
+Resolved on the [`Personal Maneuver Chart`](https://drive.google.com/open?id=1QmrjA1JVhHZZNdUClJAn7gEoVgSD8BvJ).
+
 [`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
 General `Static Maneuvers`: Static maneuvers include equipment operation, security bypassing, hiding, using social skills, astrogation, repairs, Perception, and any other complex or unusual activity not involving significant movement.
+
+Resolved on the [`Static Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+
+[`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 `Equipment Operation Maneuver`: When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
 If this happens, roll 1D10 to determine what went wrong:
@@ -65,13 +70,13 @@ Resolved on:
 
  | Action | Chart |
  | --- | --- |
- | Perception, orientation, data-gathering | Perception column, `Alternate Personal Maneuver Chart` |
-Picking locks, Disarm traps, Bypass (mechanical, electronic, software) | Picking Locks And Disarming Traps column, `Alternate Personal Maneuver Chart`
-First Aid | Using Healing Equipment column, `the Alternate Personal Maneuver Table`
+ | Perception, orientation, data-gathering | Perception column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj) |
+Picking locks, Disarm traps, Bypass (mechanical, electronic, software) | Picking Locks And Disarming Traps column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+First Aid | Using Healing Equipment column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 Repairs | [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
 Research and construction | [`Construction / Research Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_).
 
-[`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
+
 
 #### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
