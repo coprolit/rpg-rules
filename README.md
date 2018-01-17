@@ -1,4 +1,4 @@
-:information_source: _Compiled and modified RPG rules and charts for the **The Long Tomorrow** campaign. Based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
+:information_source: _Compiled, modified and shortened RPG rules based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
 
 ### Some Dice rolling conventions
 `Open-ended roll`: **1d100** roll that can yield a result lower than 01 or higher than 100.
