@@ -13,10 +13,11 @@ stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situ
 # Character Activity Rules
 The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
 
-`simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. that **do not require any rolls to resolve** (the player simply states what he intends his character to do).
+`simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. and **do not require any rolls to resolve** (the player simply states what he intends his character to do).
 
 ## Maneuvers
-An action performed by a character that entails an element of risk, or requires complex movement, unusual concentration, or thought under pressure is called a `Maneuver` and requires a `Maneuver Roll` to resolve its outcome.
+`Maneuvers` are actions which under normal circumstances have a chance of failing and usually entail an element of risk. Thus normal movement and activities (e.g., walking, climbing stairs, drawing a weapon, etc.) are not maneuvers.
+Unusual activities (e.g., swimming, climbing a rope, running up or down stairs, opening a locked safe, etc.), activities performed under stress (e.g., running, dodging, stalking, hiding, etc.), activities that require complex movement, unusual concentration, or thought under pressure are `Maneuvers` and require `Maneuver Rolls`. The GM is the final judge as to what is a maneuver and requires a roll, and what is normal activity and doesn’t require a roll.
 
 When a player indicates that they want their character to attempt a `Maneuver` as their action:
 1. GM assigns any applicable modifiers to the maneuver.
@@ -45,6 +46,9 @@ In addition, if the character falls or is hit in a body location which stores an
 (e.g., a phone mounted on a wall can not be dropped, a terminal plugged into the wall will not be “out of power” unless the local power net goes down).
 
 **Repair**, **Construction** and **Research** tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
+
+`Construction/Research Maneuver`:
+[Construction/Research Modifications Chart](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
 `Repair Maneuver`: Modified by the appropriate Technical skill bonus.
 The result indicates how long the repair maneuver took to complete, and may indicate a “CIP” — Cost In Parts. This is a percentage of the base cost of the original unit. The chart assumes a team (of at least two people) are working on the repair.
