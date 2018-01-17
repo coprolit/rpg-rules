@@ -25,19 +25,21 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 3. If he decides to perform the maneuver, an `open-ended roll` is made, adding appropriate bonus along with any other applicable modifications.
 4. A result is obtained by applying the modified roll to the appropriate chart.
 
-**`Moving Maneuvers`** Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
+`Maneuvers` are subdivided into various maneuver types, each with their own charts for resolving the `maneuver roll`:
 
-Resolved on the [`Personal Maneuver Chart`](https://drive.google.com/open?id=1QmrjA1JVhHZZNdUClJAn7gEoVgSD8BvJ).
+**`Moving Maneuvers`**
+Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 
-[`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
+- [`Moving Maneuver Chart`](https://drive.google.com/open?id=1QmrjA1JVhHZZNdUClJAn7gEoVgSD8BvJ).
+- [`Modifiers`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
-**`Static Maneuvers`**: Static maneuvers include equipment operation, security bypassing, hiding, using social skills, astrogation, repairs, Perception, and any other complex or unusual activity not involving significant movement.
+**`Attacks`**
+Any attempts to affect or harm an opponent with or without a weapon. Attacks are a special kind of maneuver where the result of a maneuver roll will usually require a second roll on the `Fumble and Failure Tables` or a specific critical table.
 
-Resolved on the [`Static Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+Resolved on an appropriate attack table (specific for weapon type) .
 
-[`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
-
-`Equipment Operation Maneuver`: When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
+**`Equipment Operation Maneuvers`**
+When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
 If this happens, roll 1D10 to determine what went wrong:
 1-7 — item is out of power
 8-9 — item malfunction (roll again for severity and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
@@ -54,17 +56,30 @@ To determine the severity of a breakage, roll 1D10:
 In addition, if the character falls or is hit in a body location which stores an item, there is a 50% chance that the item will suffer instrument failure. If a result is rolled that is impossible, no failure occurs
 (e.g., a phone mounted on a wall can not be dropped, a terminal plugged into the wall will not be “out of power” unless the local power net goes down).
 
-**Repair**, **Construction** and **Research** tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
 
-`Construction/Research Maneuver`:
+
+**`Construction/Research Maneuver`**
+Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
 [Construction/Research Modifications Chart](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
-`Repair Maneuver`: Modified by the appropriate Technical skill bonus.
-The result indicates how long the repair maneuver took to complete, and may indicate a “CIP” — Cost In Parts. This is a percentage of the base cost of the original unit. The chart assumes a team (of at least two people) are working on the repair.
+**`Repair Maneuver`**
+An unusual variety of Maneuver - the character can never quite be certain how long it takes until he is at least partially finished. Modified by the appropriate Technical skill bonus.
+The result indicates how long the repair maneuver took to complete, and may indicate a “CIP” — Cost In Parts. This is a percentage of the base cost of the original unit.
+- [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
+
+The chart assumes a team (of at least two people) are working on the repair.
 One character involved: double the time amounts shown on the chart.
 More than two skilled people involved: add +5 to the roll for each additional skilled helper.
 
-`Orientation Maneuver`: If a character takes a confusing action (e.g., teleports, dives, falls, is knocked down, etc.) or is surprised, the GM may need to determine the awareness and readiness of the character. In this case, the GM may require an orientation roll -20.
+**`Perception Maneuver`**
+Perception, orientation, data-gathering.
+
+`Orientation roll` If a character takes a confusing action (e.g., teleports, dives, falls, is knocked down, etc.) or is surprised, the GM may need to determine the awareness and readiness of the character. In this case, the GM may require an `orientation roll` -20.
+
+**`Static Maneuvers`**
+Any other (not covered above) complex or unusual activity not involving significant movement.
+- [`Static Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- [`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 Resolved on:
 
@@ -73,7 +88,7 @@ Resolved on:
  | Perception, orientation, data-gathering | Perception column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj) |
 Picking locks, Disarm traps, Bypass (mechanical, electronic, software) | Picking Locks And Disarming Traps column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 First Aid | Using Healing Equipment column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
-Repairs | [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
+
 Research and construction | [`Construction / Research Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_).
 
 
@@ -83,13 +98,8 @@ All driving, steering or other maneuvering control of any vehicle (bicycle, car,
 
 Resolved on the `Vehicular Maneuver/Astrogation Chart`.
 
-#### Attacks
-Any attempts to affect or harm an opponent with or without a weapon.
-
-Resolved on an appropriate attack table.
-
 ## Tactical Activity Tracking System
-During combat or other tactical situations that necessitates tracking of environment, player and NPC actions are tracked in intervals of seconds (second-by-second).
+In a tactical situation, action is resolved in terms of meters and seconds.
 A player states an action for his character, spends the necessary time to complete the action, and may then declare another action. 
 
 The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
@@ -128,10 +138,12 @@ Misc. Static Action | 10+
 Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
 
-`Melee`: combatant is engaged in melee if:
+`Melee` - combatant is engaged in melee if:
 - A foe attacked in the previous second, and
 - That foe is still within striking distance (i.e., usually within 3m), and
 - That foe’s action for the current second is to melee the combatant.
+
+`Canceling Action` - An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
 #### Simultaneous actions
 Combatants can have multiple simultaneously occurring actions (even movement), if logical.
