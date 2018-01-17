@@ -16,8 +16,8 @@ The type of action a character can perform during play are most commonly classif
 `simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, etc. and **do not require any rolls to resolve** (the player simply states what he intends his character to do).
 
 ## Maneuvers
-`Maneuvers` are actions which under normal circumstances have a chance of failing and usually entail an element of risk. Thus normal movement and activities (e.g., walking, climbing stairs, drawing a weapon, etc.) are not maneuvers.
-Unusual activities (e.g., swimming, climbing a rope, running up or down stairs, opening a locked safe, etc.), activities performed under stress (e.g., running, dodging, stalking, hiding, etc.), activities that require complex movement, unusual concentration, or thought under pressure are `Maneuvers` and require `Maneuver Rolls`. The GM is the final judge as to what is a maneuver and requires a roll, and what is normal activity and doesn’t require a roll.
+`Maneuvers` are actions (other than attacks) which under normal circumstances have a chance of failing and usually entail an element of risk.
+Unusual activities (e.g., swimming, climbing a rope, running up or down stairs, piloting a spacecraft, opening a locked safe, etc.) and activities performed under stress (e.g., running, dodging, stalking, hiding, hacking a security system, engaging in combat etc.) are maneuvers and require rolls. The GM is the final judge as to what is a `maneuver` and requires a `maneuver roll`, and what is normal activity and doesn’t require a roll.
 
 When a player indicates that they want their character to attempt a `Maneuver` as their action:
 1. GM assigns any applicable modifiers to the maneuver.
@@ -25,8 +25,12 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 3. If he decides to perform the maneuver, an `open-ended roll` is made, adding appropriate bonus along with any other applicable modifications.
 4. A result is obtained by applying the modified roll to the appropriate chart.
 
-#### Static Maneuvers
-Any complex or unusual activity not involving significant physical movement (tracking, picking locks, disarming traps, security bypassing, hiding, astrogation, repairs, equipment operation, perception, influencing other characters, etc.).
+`Moving Maneuvers` Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
+
+Resolved on the `Personal Maneuver Chart`.
+[`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
+
+General `Static Maneuvers`: Static maneuvers include equipment operation, security bypassing, hiding, using social skills, astrogation, repairs, Perception, and any other complex or unusual activity not involving significant movement.
 
 `Equipment Operation Maneuver`: When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
 If this happens, roll 1D10 to determine what went wrong:
@@ -68,13 +72,6 @@ Repairs | [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4y
 Research and construction | [`Construction / Research Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_).
 
 [`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
-
-#### Moving Maneuvers
-Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
-
-Resolved on the `Personal Maneuver Chart`.
-
-[`MM Modifications table`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
 #### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
