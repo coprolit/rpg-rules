@@ -1,14 +1,14 @@
 :information_source: _Compiled, modified and shortened RPG rules based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
 
 ### Some Dice rolling conventions
-`Open-ended roll`: **1d100** roll that can yield a result lower than 01 or higher than 100.
+`Open-ended roll` - **1d100** roll that can yield a result lower than 01 or higher than 100.
 - A roll under **06** calls for a second roll to be made and subtracted from the first.
 - A roll over **95** calls for a second roll to be made and added to the first.
 
-`Modifier`: **bonus** or **penalty** which is applied to the dice roll, _e.g. skill bonuses,
+`Modifier` - **bonus** or **penalty** which is applied to the dice roll, _e.g. skill bonuses,
 stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation_.
 
-`Maneuver roll`: modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
+`Maneuver roll` - modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
 
 # Character Activity Rules
 The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
