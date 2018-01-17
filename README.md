@@ -1,5 +1,3 @@
-:information_source: _Compiled, modified and shortened RPG rules based on the Spacemaster, Rolemaster & Cyberspace systems by ICE._
-
 ### Some Dice rolling conventions
 `Open-ended roll` - **1d100** roll that can yield a result lower than 01 or higher than 100.
 - A roll under **06** calls for a second roll to be made and subtracted from the first.
@@ -59,7 +57,7 @@ In addition, if the character falls or is hit in a body location which stores an
 
 **`Construction/Research Maneuver`**
 Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
-[Construction/Research Modifications Chart](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
+- [Construction/Research Modifications Chart](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
 **`Repair Maneuver`**
 An unusual variety of Maneuver - the character can never quite be certain how long it takes until he is at least partially finished.
