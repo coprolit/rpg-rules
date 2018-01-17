@@ -39,64 +39,62 @@ Any attempts to affect or harm an opponent with or without a weapon. Attacks are
 Resolved on an appropriate attack table (specific for weapon type) .
 
 **`Equipment Operation Maneuvers`**
-When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
+Equipment operation is resolved as a `static maneuver`.
+Operating simple, standard equipment (e.g., a telephone, an information terminal, etc.) should be a routine maneuver with an additional +50 modification.
+
+`Instrument failure` - When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
 If this happens, roll 1D10 to determine what went wrong:
 1-7 — item is out of power
-8-9 — item malfunction (roll again for severity and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-10 — Item has been dropped (roll again for severity and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj) with a -10 modification)
+8-9 — item malfunction (roll again for `severity` and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
+10 — Item has been dropped (roll again for `severity` and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj) with a -10 modification)
 
 To determine the severity of a breakage, roll 1D10:
-1-5 — Routine (+20 on [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-6 — Light (+10 on [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-7 — Moderate (+0 on [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-8 — Severe (-10 on [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-9 — Very Severe (-20 on [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-10 — Extremely Severe (-30 on [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
+1-5 — Routine
+6 — Light
+7 — Moderate
+8 — Severe
+9 — Very Severe
+10 — Extremely Severe
 
-In addition, if the character falls or is hit in a body location which stores an item, there is a 50% chance that the item will suffer instrument failure. If a result is rolled that is impossible, no failure occurs
-(e.g., a phone mounted on a wall can not be dropped, a terminal plugged into the wall will not be “out of power” unless the local power net goes down).
-
-
+In addition, if the character falls or is hit in a body location which stores an item, there is a 50% chance that the item will suffer instrument failure. If a result is rolled that is impossible, no failure occurs (e.g., a phone mounted on a wall can not be dropped, a terminal plugged into the wall will not be “out of power” unless the local power net goes down).
 
 **`Construction/Research Maneuver`**
 Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
 [Construction/Research Modifications Chart](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
 **`Repair Maneuver`**
-An unusual variety of Maneuver - the character can never quite be certain how long it takes until he is at least partially finished. Modified by the appropriate Technical skill bonus.
-The result indicates how long the repair maneuver took to complete, and may indicate a “CIP” — Cost In Parts. This is a percentage of the base cost of the original unit.
+An unusual variety of Maneuver - the character can never quite be certain how long it takes until he is at least partially finished.
+Modified by the appropriate Technical skill bonus.
 - [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
 
+The result indicates how long the repair maneuver took to complete, and may indicate a “CIP” — Cost In Parts. This is a percentage of the base cost of the original unit.
 The chart assumes a team (of at least two people) are working on the repair.
 One character involved: double the time amounts shown on the chart.
 More than two skilled people involved: add +5 to the roll for each additional skilled helper.
 
 **`Perception Maneuver`**
-Perception, orientation, data-gathering.
+Any observation, orientation, data-gathering activity.
+
+- Perception column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 `Orientation roll` If a character takes a confusing action (e.g., teleports, dives, falls, is knocked down, etc.) or is surprised, the GM may need to determine the awareness and readiness of the character. In this case, the GM may require an `orientation roll` -20.
+
+**`Picking locks, Disarm traps, Bypass`**
+Any kind of mechanical, electronic or software override.
+- Picking Locks And Disarming Traps column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+
+**`First Aid`**
+- Using Healing Equipment column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 
 **`Static Maneuvers`**
 Any other (not covered above) complex or unusual activity not involving significant movement.
 - [`Static Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
-- [`SM Modifications chart`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
+- [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
-Resolved on:
-
- | Action | Chart |
- | --- | --- |
- | Perception, orientation, data-gathering | Perception column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj) |
-Picking locks, Disarm traps, Bypass (mechanical, electronic, software) | Picking Locks And Disarming Traps column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
-First Aid | Using Healing Equipment column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
-
-Research and construction | [`Construction / Research Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_).
-
-
-
-#### Vehicular Maneuvers
+**`Vehicular Maneuvers`**
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
-
-Resolved on the `Vehicular Maneuver/Astrogation Chart`.
+- `Vehicular Maneuver/Astrogation Chart`.
 
 ## Tactical Activity Tracking System
 In a tactical situation, action is resolved in terms of meters and seconds.
