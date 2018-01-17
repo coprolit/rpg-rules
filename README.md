@@ -5,8 +5,7 @@
 - A roll under **06** calls for a second roll to be made and subtracted from the first.
 - A roll over **95** calls for a second roll to be made and added to the first.
 
-`Modifier` - **bonus** or **penalty** which is applied to the dice roll, _e.g. skill bonuses,
-stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation_.
+`Modifier` - **bonus** or **penalty** which is applied to the dice roll (e.g. -10 or +25) due to skill bonuses, stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation.
 
 `Maneuver roll` - modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
 
