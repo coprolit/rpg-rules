@@ -84,7 +84,7 @@ Resolved on an appropriate attack table.
 
 ## Tactical Activity Tracking System
 During combat or other tactical situations that necessitates tracking of environment, player and NPC actions are tracked in intervals of seconds (second-by-second).
-A player states an action for his character, spend the necessary time to complete the action, and may then declare another action. 
+A player states an action for his character, spends the necessary time to complete the action, and may then declare another action. 
 
 The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
 
