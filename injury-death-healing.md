@@ -1,3 +1,5 @@
+## Injury, death, healing rules
+
 #### Degrees of injury
 `light` wounds cause up to 5 hits per round, or a penalty of up to -20.
 
