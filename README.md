@@ -143,19 +143,15 @@ Misc. Static Action | 10+
 Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
 
+## Misc.
+
+Rolemaster/Spacemaster `round` = 10 sekunder (10% rnd activity = 1 sekund)
+
 #### Melee
 Combatant is engaged in `melee` if:
 - A foe attacked in the previous second, and
 - That foe is still within striking distance (i.e., usually within 3m), and
 - That foe’s action for the current second is to melee the combatant.
-
-#### Canceling Action
-An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
-
-#### Simultaneous actions
-Combatants can have multiple simultaneously occurring actions (even movement), if logical.
-e. Successful Quick Draw, Dropping An Object, & Instantaneous Spells are 0 second actions.
-If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
 
 #### Moving Rate and Pace
 Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10
@@ -174,5 +170,45 @@ x4 | Dashing | Light | -50 (Sheer Folly)
 x5 | Sprinting | Medium | -60
 
 MM task results apply as normal. The result is the percentage of the distance they would normally move given their rate of speed.
+
+#### Canceling action
+An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
+
+#### Simultaneous actions
+Combatants can have multiple simultaneously occurring actions (even movement), if logical (eg. walking while shooting, Successful Quick Draw, Dropping An Object, & Instantaneous Spells are 0 second actions).
+If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
+
+#### Charge action
+Charge requires running (x2) or greater movement pace.
+Charges are the exception to "resolve times". Resolve a charge at the "moment" the combatants meet!
+Recovery from the charge is 1/2 base attack time, before new action.
+Charging is a special `maneuver` that requires a `movement maneuver roll`, but allows movement at double rate, adds +10 to OB, -10 to DB. Movement does penalize the attack roll!!!
+Apply -10 per movement interval used.
+
+#### Parry action
+Parrying requires that the character be wielding a weapon.
+Parry works as per RMSS. It is in effect for the duration of the "attack time" against any one attack that is "resolved" against the target during that time. (Parry has no affect on time)
+
+#### Dodge action
+When a character does not have a weapon (or cannot use their weapon) and want to avoid combat, a character can attempt to Dodge an attack.
+This is a dedicated attempt to avoid being hit by getting out of the way of the incoming attack.
+
+**Extremely Hard** `movement maneuver`. Add the average of the character’s Agility and Quickness bonuses, or the character’s Acrobatics skill. Any numeric results are applied to the character’s DB.
+
+If the result falls on the low end of the column, then the character has fumbled their attempt to Dodge and the results are applied. If the result falls on the high end of the table, then the character receives the highest numeric result on that chart column to their DB and the prose result is also applied accordingly.
+
+#### Stunned effect
+While stunned (from crits), a combatant may:
+- not attack
+- may only parry with half of his Offensive Bonus.
+- The only other allowable actions are movement and maneuvers (modified by at least -50).
+
+In addition to normal modifications, stunned maneuvers are also modified by three times the character’s SD stat bonus.
+
+#### Surprised/confused effect
+Occurs when a player fails to perceive an ambush, hidden foe, etc. (failed Perception roll).
+or after confusing action, requiring a orientation roll.
+Player may not attempt an action for a number of seconds:
+amount by which Perception roll failed / 20
 
 
