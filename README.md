@@ -55,12 +55,14 @@ Any observation, orientation, data-gathering activity.
 #### Pick locks/Disarm traps/Bypass Maneuvers
 Any kind of mechanical, electronic or software override.
 - **Picking Locks And Disarming Traps** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### First Aid Maneuvers
 Healing of any `light` injury - or slowing or halting the effects of some `medium` or `severe` injuries (useless against nerve or organ damage). More complicated problems require surgery.
 Requires First Aid equipment (bandages, compresses, splints, etc.).
 - [Injury rules](injury-death-healing.md)
 - **Using Healing Equipment** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### Influence/Interaction Maneuvers
 Using social skills, influencing other characters, voice and gesture interaction with machines. 
@@ -68,7 +70,8 @@ Using social skills, influencing other characters, voice and gesture interaction
 
 #### Construction/Research Maneuvers
 Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
-- [`Construction/Research Modifications Chart`](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
+- [`Construction/Research Modifications Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_)
+- [`Modifiers`](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
 #### Repair Maneuvers
 An unusual variety of `Maneuver` - the character can never quite be certain how long it takes until he is at least partially finished.
