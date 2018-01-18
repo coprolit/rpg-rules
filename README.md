@@ -1,6 +1,9 @@
 *This is intended as a quick reference for commonly used rules and charts during play.*
 
-### Some Dice rolling conventions
+# Dice rolling conventions
+
+---
+
 `Open-ended roll` - **1d100** roll that can yield a result lower than 01 or higher than 100.
 - A roll under **06** calls for a second roll to be made and subtracted from the first.
 - A roll over **95** calls for a second roll to be made and added to the first.
@@ -22,6 +25,9 @@ Absurd NA | -70
 `Maneuver roll` - modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
 
 # Character Activity Rules
+
+---
+
 The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
 
 `simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, operating an information terminal, using a screwdriver, etc. and **do not require any rolls to resolve** (the player simply states what he intends his character to do).
@@ -104,7 +110,7 @@ All driving, steering or other maneuvering control of any vehicle (bicycle, car,
 - `Vehicular Maneuver/Astrogation Chart`.
 
 ## Tactical Activity Tracking System
-In a tactical situation, action is resolved in terms of meters and seconds.
+In a tactical situation, action is resolved in terms of meters and seconds (second-by-second).
 A player states an action for his character, spends the necessary time to complete the action, and may then declare another action. 
 
 The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
@@ -142,8 +148,6 @@ _ |
 Misc. Static Action | 10+
 Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
-
-## Misc.
 
 Rolemaster/Spacemaster `round` = 10 sekunder (10% rnd activity = 1 sekund)
 
