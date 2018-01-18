@@ -6,6 +6,7 @@
 - A roll over **95** calls for a second roll to be made and added to the first.
 
 `Modifier` - **bonus** or **penalty** which is applied to the dice roll (e.g. -10 or +25) due to skill bonuses, stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation.
+
 | Difficulty level | Modifier
 | --- | --- |
 Routine | +30
