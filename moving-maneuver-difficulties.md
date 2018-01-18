@@ -1,4 +1,5 @@
-Sample moving maneuver difficulties:
+## Sample moving maneuver difficulties:
+
 
 | Description | Difficulty |
 | --- | --- |
