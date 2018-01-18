@@ -42,7 +42,7 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 
 - [`Moving Maneuver Chart`](https://drive.google.com/open?id=1QmrjA1JVhHZZNdUClJAn7gEoVgSD8BvJ).
-- [sample moving maneuver difficulties](moving-maneuver-difficulties)
+- [sample moving maneuver difficulties](moving-maneuver-difficulties.md)
 - [`Modifiers`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
 #### Attacks
