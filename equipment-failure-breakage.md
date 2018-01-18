@@ -1,4 +1,5 @@
-#### Equipment failure and breakage
+## Equipment failure and breakage rules
+
 When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
 If this happens, roll 1D10 to determine what went wrong:
 - 1-7 — item is out of power
