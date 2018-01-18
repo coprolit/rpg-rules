@@ -6,6 +6,17 @@
 - A roll over **95** calls for a second roll to be made and added to the first.
 
 `Modifier` - **bonus** or **penalty** which is applied to the dice roll (e.g. -10 or +25) due to skill bonuses, stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation.
+| Difficulty level | Modifier
+| --- | --- |
+Routine | +30
+Easy | +20
+Light | +10
+Medium | 0
+Hard | -10
+Very Hard | -20
+Extremely Hard | -30
+Sheer Folly | -50
+Absurd NA | -70
 
 `Maneuver roll` - modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
 
@@ -30,12 +41,14 @@ When a player indicates that they want their character to attempt a `Maneuver` a
 Any complex or unusual movement, or physical activities performed under stress (running up or down stairs, climbing, swimming, riding, stalking, balancing a ledge, acrobatics, dodging, tumbling, diving, etc.).
 
 - [`Moving Maneuver Chart`](https://drive.google.com/open?id=1QmrjA1JVhHZZNdUClJAn7gEoVgSD8BvJ).
+- [sample moving maneuver difficulties](moving-maneuver-difficulties)
 - [`Modifiers`](https://skippern.github.io/iRoleMaster.help/Contents/Resources/shared/T/RMSR_T-4.2.png)
 
 #### Attacks
 Any attempts to affect or harm an opponent with or without a weapon. Attacks are a special kind of maneuver where the result of a maneuver roll will usually require a second roll on the `Fumble and Failure Tables` or a specific critical table.
 - Resolved on an appropriate attack table (specific for weapon type).
 - [OB Modifiers](https://drive.google.com/open?id=1N1pcykiytz4mn3xdQHRkSuJltK1QSXYE)
+- [hits taken modifiers](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### Equipment Operation Maneuvers
 Any unusual use of equipment, equipment use under stress, or usage of unfamiliar technology.
@@ -67,6 +80,7 @@ Requires First Aid equipment (bandages, compresses, splints, etc.).
 #### Influence/Interaction Maneuvers
 Using social skills, influencing other characters, voice and gesture interaction with machines. 
 - **Influence and Interaction** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### Construction/Research Maneuvers
 Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
@@ -77,11 +91,7 @@ Construction and Research tasks are an unusual variety of `Maneuver` — the cha
 An unusual variety of `Maneuver` - the character can never quite be certain how long it takes until he is at least partially finished.
 Modified by the appropriate Technical skill bonus.
 - [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
-
-The result indicates how long the repair maneuver took to complete, and may indicate a “CIP” — Cost In Parts. This is a percentage of the base cost of the original unit.
-The chart assumes a team (of at least two people) are working on the repair.
-One character involved: double the time amounts shown on the chart.
-More than two skilled people involved: add +5 to the roll for each additional skilled helper.
+- [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### General Static Maneuvers
 Any other (not covered above) complex or unusual activity not involving significant movement.
