@@ -56,12 +56,9 @@ Any kind of mechanical, electronic or software override.
 - Picking Locks And Disarming Traps column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 
 #### First Aid Maneuvers
-Healing of any `light` injury - or slowing or halting the effects of some `medium` or `severe` injuries (useless against nerve or organ damage). More complicated problems require surgery. [degrees of injury](injury-death-healing.md)
+Healing of any `light` injury - or slowing or halting the effects of some `medium` or `severe` injuries (useless against nerve or organ damage). More complicated problems require surgery.
 Requires First Aid equipment (bandages, compresses, splints, etc.).
-- **bandage** and **compress** stops up to **3 hits per round** (the hits per round will start again if the character does more than walk during next 8 hours).
-- **tourniquet** stops up to **10 hits per round** (until the wound is healed the tourniquet must be loosened once every 24 rounds, and 3 hits per round will be taken for 5 rounds).
-
-
+- [Injury rules](injury-death-healing.md)
 - Using Healing Equipment column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 
 #### Influence/Interaction Maneuvers
