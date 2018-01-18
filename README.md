@@ -42,6 +42,7 @@ Any unusual use of equipment, equipment use under stress, or usage of unfamiliar
 Operating simple, standard equipment (e.g., a telephone, an information terminal, etc.) should be a routine maneuver with an additional +50 modification.
 - General column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
+- [equipment failure rules](equipment-failure-breakage.md)
 
 #### Perception Maneuvers
 Any observation, orientation, data-gathering activity.
@@ -87,30 +88,6 @@ Any other (not covered above) complex or unusual activity not involving signific
 #### Vehicular Maneuvers
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
 - `Vehicular Maneuver/Astrogation Chart`.
----
-
-#### Equipment failure and breakage
-When using any sort of equipment, the Player should roll 1D100. A result of 01-02 indicates some sort of instrument failure.
-If this happens, roll 1D10 to determine what went wrong:
-- 1-7 — item is out of power
-- 8-9 — item malfunction (roll again for `severity` and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj))
-- 10 — Item has been dropped (roll again for `severity` and then roll on the [`Equipment Mishandling Chart`](https://drive.google.com/open?id=1jiaOSBMgAktKZqkKTJJfIBFj4GVhMvFj) with a -10 modification)
-
-To determine the severity of a breakage, roll 1D10:
-- 1-5 — Routine
-- 6 — Light
-- 7 — Moderate
-- 8 — Severe
-- 9 — Very Severe
-- 10 — Extremely Severe
-
-In addition, if the character falls or is hit in a body location which stores an item, there is a 50% chance that the item will suffer instrument failure. If a result is rolled that is impossible, no failure occurs (e.g., a phone mounted on a wall can not be dropped, a terminal plugged into the wall will not be “out of power” unless the local power net goes down).
-
-#### Injury and Healing
-Degrees of injury:
-`light` wounds cause up to 5 hits per round, or a penalty of up to -20.
-`medium` wounds cause 6 to 10 hits per round, or a penalty of -21 to -50 (this category includes fractures with unspecified penalties)
-`severe` wounds cause more than 10 hits per round, or a penalty of more than -50 (this category includes shattered bones, destroyed organs, etc.).
 
 ## Tactical Activity Tracking System
 In a tactical situation, action is resolved in terms of meters and seconds.
