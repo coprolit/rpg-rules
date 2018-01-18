@@ -36,7 +36,7 @@ behind a bush in broad daylight | Extremely Hard
 4m | Hard
 5.5m | Very Hard
 8.5m | Sheer Folly
-**Jumping a fence** (no armor):
+**Jumping a fence** (no armor): |
 1.2m | Light
 1.5m | Medium
 1.7m | Hard
