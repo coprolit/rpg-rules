@@ -4,11 +4,11 @@
 
 ---
 
-`Open-ended roll` - **1d100** roll that can yield a result lower than 01 or higher than 100.
+`Open-ended roll` - a **1d100** roll that can yield a result lower than 01 or higher than 100.
 - A roll under **06** calls for a second roll to be made and subtracted from the first.
 - A roll over **95** calls for a second roll to be made and added to the first.
 
-`Modifier` - **bonus** or **penalty** which is applied to the dice roll (e.g. -10 or +25) due to skill bonuses, stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation.
+`Modifier` - a **bonus** or **penalty** which is applied to the dice roll (e.g. -10 or +25) due to skill bonuses, stat bonuses, difficulty levels, and miscellaneous modifiers applied to the situation.
 
 | Difficulty level | Modifier
 | --- | --- |
@@ -22,7 +22,7 @@ Extremely Hard | -30
 Sheer Folly | -50
 Absurd NA | -70
 
-`Maneuver roll` - modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
+`Maneuver roll` - a modified `Open-ended roll`. To resolve the roll, the result is applied to an appropriate chart.
 
 # Character Activity Rules
 
@@ -102,7 +102,7 @@ Modified by the appropriate Technical skill bonus.
 
 #### General Static Maneuvers
 Any other (not covered above) complex or unusual activity not involving significant movement.
-- Gener al column of [`Static Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- **General** column of [`Static Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### Vehicular Maneuvers
@@ -110,7 +110,7 @@ All driving, steering or other maneuvering control of any vehicle (bicycle, car,
 - `Vehicular Maneuver/Astrogation Chart`.
 
 ## Tactical Activity Tracking
-In a tactical situation, action is resolved in terms of meters and seconds (second-by-second).
+In a tactical situation, action is tracked in terms of meters and seconds (second-by-second).
 A player states an action for his character, spends the necessary time to complete the action, and may then declare another action. 
 
 The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
@@ -128,6 +128,7 @@ Dive for cover | 1 | x5 pace, Medium MM. End up prone, unless the GM allows for 
 Acrobatics / Tumble / etc. | 2 | Pr. 3m
 Picking Up Something Off Of The Ground | 3
 Mount/Dismount | 5
+Rapid dismount | 2
 _ |
 Draw weapon | 2
 Sheath weapon | 3
@@ -158,10 +159,10 @@ Combatant is engaged in `melee` if:
 - That foe’s action for the current second is to melee the combatant.
 
 #### Moving Rate and Pace
-Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10
-`Moving Rate`: Walking Moving Rate x Pace multiplier / sec.
+Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10 sec.
+`Moving Rate`: Walking Moving Rate x Pace multiplier
 
-`Pace` can increase or decrease by 1 multiple once per second, unless GM rules otherwise appropriate.
+A character can change his `pace` multiple up or down by 1 multiple each second he is moving.
 
 Pace multiplier | Description | MM Difficulty (Unencumbered, no pressure) | Modifier to simultaneous actions
 --- | --- | --- | ---
@@ -183,11 +184,12 @@ Combatants can have multiple simultaneously occurring actions (even movement), i
 If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
 
 #### Charge action
-Charge requires running (x2) or greater movement pace.
-Charges are the exception to "resolve times". Resolve a charge at the "moment" the combatants meet!
-Recovery from the charge is 1/2 base attack time, before new action.
-Charging is a special `maneuver` that requires a `movement maneuver roll`, but allows movement at double rate, adds +10 to OB, -10 to DB. Movement does penalize the attack roll!!!
-Apply -10 per movement interval used.
+If an attacker is moving at running pace or higher into a foe for an attack, the attack is considered a charge.
+- Charge requires running (x2) or greater movement pace.
+- Charges are the exception to "resolve times". Resolve a charge at the "moment" the combatants meet!
+- Recovery from the charge is 1/2 base attack time, before new action.
+- Charging is a special `maneuver` that requires a `movement maneuver roll`, adds +10 to OB, -10 to DB. 
+- Movement does penalize the attack roll.
 
 #### Parry action
 Parrying requires that the character be wielding a weapon.
