@@ -2,6 +2,9 @@ Sample moving maneuver difficulties:
 
 Description | Difficulty
 | --- | --- |
+Running fast, x3 pace | Easy
+Dashing, x4 pace | Light
+Sprinting, x5 pace |	Medium
 Climbing: |
 uphill | Routine
 Ladder, pile of rubble | Easy
