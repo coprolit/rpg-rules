@@ -129,21 +129,25 @@ Misc. Static Action | 10+
 Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
 
-`Melee` - combatant is engaged in melee if:
+#### Melee
+Combatant is engaged in `melee` if:
 - A foe attacked in the previous second, and
 - That foe is still within striking distance (i.e., usually within 3m), and
 - That foe’s action for the current second is to melee the combatant.
 
-`Canceling Action` - An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
+#### Canceling Action
+An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
 #### Simultaneous actions
 Combatants can have multiple simultaneously occurring actions (even movement), if logical.
 e. Successful Quick Draw, Dropping An Object, & Instantaneous Spells are 0 second actions.
 If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
 
-#### Movement
+#### Moving Rate and Pace
 Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10
 `Moving Rate`: Walking Moving Rate x Pace multiplier / sec.
+
+`Pace` can increase or decrease by 1 multiple once per second, unless GM rules otherwise appropriate.
 
 Pace multiplier | Description | MM Difficulty (Unencumbered, no pressure) | Modifier to simultaneous actions
 --- | --- | --- | ---
@@ -156,6 +160,5 @@ x4 | Dashing | Light | -50 (Sheer Folly)
 x5 | Sprinting | Medium | -60
 
 MM task results apply as normal. The result is the percentage of the distance they would normally move given their rate of speed.
-Pace can increase or decrease by 1 multiple once per second, unless GM rules otherwise appropriate.
 
 
