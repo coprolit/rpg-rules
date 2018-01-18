@@ -6,7 +6,7 @@
 Running fast, x3 pace | Easy
 Dashing, x4 pace | Light
 Sprinting, x5 pace |	Medium
-Climbing: |
+Climbing: | -
 uphill | Routine
 Ladder, pile of rubble | Easy
 Wall with good handholds | Light
@@ -25,12 +25,12 @@ a tree with lots of low limbs | Easy
 a tree with some low limbs | Light
 the rough, brick wall of a cottage | Medium
 a tree with limbs lower than 20' | Hard
-Hiding: |
+Hiding: | -
 behind a large barrel in a dark cellar | Routine
 behind a bush on a pitch-black night | Light
 behind a bush on a moonlit night | Hard
 behind a bush in broad daylight | Extremely Hard
-Leaping a ditch (no armor): 
+Leaping a ditch (no armor): | -
 1.2m | Easy
 2.5m | Medium
 4m | Hard
