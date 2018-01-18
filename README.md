@@ -40,35 +40,35 @@ Any attempts to affect or harm an opponent with or without a weapon. Attacks are
 #### Equipment Operation Maneuvers
 Any unusual use of equipment, equipment use under stress, or usage of unfamiliar technology.
 Operating simple, standard equipment (e.g., a telephone, an information terminal, etc.) should be a routine maneuver with an additional +50 modification.
-- General column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- **General** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 - [equipment failure rules](equipment-failure-breakage.md)
 
 #### Perception Maneuvers
 Any observation, orientation, data-gathering activity.
 
-- Perception column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- **Perception** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 `Orientation roll` If a character takes a confusing action (e.g., teleports, dives, falls, is knocked down, etc.) or is surprised, the GM may need to determine the awareness and readiness of the character. In this case, the GM may require an `orientation roll` -20.
 
 #### Pick locks/Disarm traps/Bypass Maneuvers
 Any kind of mechanical, electronic or software override.
-- Picking Locks And Disarming Traps column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- **Picking Locks And Disarming Traps** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 
 #### First Aid Maneuvers
 Healing of any `light` injury - or slowing or halting the effects of some `medium` or `severe` injuries (useless against nerve or organ damage). More complicated problems require surgery.
 Requires First Aid equipment (bandages, compresses, splints, etc.).
 - [Injury rules](injury-death-healing.md)
-- Using Healing Equipment column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- **Using Healing Equipment** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 
 #### Influence/Interaction Maneuvers
 Using social skills, influencing other characters, voice and gesture interaction with machines. 
-- Influence and Interaction column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
+- **Influence and Interaction** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 
 #### Construction/Research Maneuvers
 Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
-- [Construction/Research Modifications Chart](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
+- [`Construction/Research Modifications Chart`](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
 #### Repair Maneuvers
 An unusual variety of `Maneuver` - the character can never quite be certain how long it takes until he is at least partially finished.
