@@ -1,6 +1,6 @@
 Sample moving maneuver difficulties:
 
-Description | Difficulty
+| Description | Difficulty |
 | --- | --- |
 Running fast, x3 pace | Easy
 Dashing, x4 pace | Light
