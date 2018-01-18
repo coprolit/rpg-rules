@@ -15,3 +15,5 @@
 
 #### Recovery from wounds
 [`Healing Recovery Table`](https://drive.google.com/open?id=1rk8Q2vEI-Qxwu1bQZxEC13_q-qliadUf)
+
+Half recovery time if the victim is hospitalied or placed in some other special care.
