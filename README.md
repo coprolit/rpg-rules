@@ -109,7 +109,7 @@ Any other (not covered above) complex or unusual activity not involving signific
 All driving, steering or other maneuvering control of any vehicle (bicycle, car, spacecraft, or any type of air and water craft, etc.).
 - `Vehicular Maneuver/Astrogation Chart`.
 
-## Tactical Activity Tracking System
+## Tactical Activity Tracking
 In a tactical situation, action is resolved in terms of meters and seconds (second-by-second).
 A player states an action for his character, spends the necessary time to complete the action, and may then declare another action. 
 
