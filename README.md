@@ -113,7 +113,7 @@ All driving, steering or other maneuvering control of any vehicle (bicycle, car,
 In a tactical situation, action is tracked in terms of meters and seconds (second-by-second).
 A player states an action for his character, spends the necessary time to complete the action, and may then declare another action. 
 
-The `Action/Time Table` is a list of common actions that most characters attempt during tactical situations:
+The `Action/Time Table` is a list of common actions and default time cost that most characters attempt during tactical situations:
 
 Action | Seconds | |
 --- | --- | ---
@@ -151,6 +151,12 @@ Power supply reload | 8-10
 Apply first aid | 10 | per hit/round
 
 Rolemaster/Spacemaster `round` = 10 sekunder (10% rnd activity = 1 sekund)
+
+#### Reducing the time required for an action
+`Manuevers` can be sped up, adding a penalty to the `Maneuver roll`, one difficulty modifier level pr. second less. The action’s duration can be reduced to **no less/more than half of the default duration** and to **no less than 1 second**.
+If a character wishes to accomplish a `simple action` in a faster time than normal, there is an increased element of risk and the GM may consequently require a `Maneuver Roll`, using the relevant skill and attribute.
+
+Rolls are always resolved at the end of the duration of an action.
 
 #### Melee
 Combatant is engaged in `melee` if:
