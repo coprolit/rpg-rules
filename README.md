@@ -56,6 +56,7 @@ Any attempts to affect or harm an opponent with or without a weapon. Attacks are
 - Resolved on an appropriate attack table (specific for weapon type).
 - [OB Modifiers](https://drive.google.com/open?id=1N1pcykiytz4mn3xdQHRkSuJltK1QSXYE)
 - [hits taken modifiers](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
+- [thrown rules](thrown-rules.md)
 
 #### Equipment Operation Maneuvers
 Any unusual use of equipment, equipment use under stress, or usage of unfamiliar technology.
