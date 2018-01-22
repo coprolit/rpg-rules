@@ -4,7 +4,11 @@ Intent is to combine the second-by-second (simultaneous) and turn-based (sequent
 
 Tactical game time is tracked in rounds, with combattants taking turns to perform 1 medium action, or 2 minor actions, or ½ of a major action, per round.
 
-Initiative is Qu bonus + 2d10.
+1) Roll initiative, Qu bonus + 2d10.
+2) Declare actions lowest to highest.
+3) Resolve actions conflicts, if any.
+4) Perform actions highest to lowest.
+5) Perform clean-up.
 
 `Round` = approximately 4 seconds.
 (SM/RM's 10 sec. `round` effects need to be converted ad hoc)
