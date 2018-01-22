@@ -186,9 +186,13 @@ MM task results apply as normal. The result is the percentage of the distance th
 #### Canceling action
 An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
+#### Opportunity action
+An action that is put on hold, turning it into an out-of-turn action taken in response to a trigger. An opportunity action interrupts the action that triggered it. It completes prior to the interrupted action, and if the interrupted action becomes impossible to complete, it is lost.
+
+#### Conflicting actions
+
 #### Simultaneous actions
 Combatants can have multiple simultaneously occurring actions (even movement), if logical (eg. walking while shooting, Successful Quick Draw, Dropping An Object, & Instantaneous Spells are 0 second actions).
-If actions are closely timed, a GM might allow the slower to still resolve (death blow, etc.)
 
 #### Charge action
 If an attacker is moving at running pace or higher into a foe for an attack, the attack is considered a charge.
