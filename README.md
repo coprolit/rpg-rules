@@ -92,13 +92,13 @@ Using social skills, influencing other characters, voice and gesture interaction
 
 #### Construction/Research Maneuvers
 Construction and Research tasks are an unusual variety of `Maneuver` — the character can never quite be certain how long they take until he is at least partially finished.
-- [`Construction/Research Modifications Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_)
+- [`Construction/Research Maneuver Chart`](https://drive.google.com/open?id=1MlE0rmM9USBmwVmXokUKCwwZzixDj0U_)
 - [`Modifiers`](https://drive.google.com/open?id=1gz80stxpaNaAkewMxoWQ3wU38HOimD84)
 
 #### Repair Maneuvers
 An unusual variety of `Maneuver` - the character can never quite be certain how long it takes until he is at least partially finished.
 Modified by the appropriate Technical skill bonus.
-- [`Malfunction / Repair Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
+- [`Malfunction / Repair Maneuver Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
 #### General Static Maneuvers
