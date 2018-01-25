@@ -5,10 +5,12 @@ Intent is to combine the second-by-second (simultaneous) and turn-based (sequent
 Tactical game time is tracked in rounds, with combattants taking turns to perform 1 medium action, or 2 minor actions, or ½ of a major action, per round.
 
 1) Roll initiative, Qu bonus + 2d10.
-2) Declare actions lowest to highest.
-3) Resolve actions conflicts, if any.
-4) Perform actions highest to lowest.
-5) Perform clean-up.
+2) Perform actions highest to lowest.
+3) Perform clean-up.
+
+**Hold action** - A character can set his turn on 'hold' and take it later after a specified character's turn in the same round.
+**Opportunity action** - A character set his turn on 'hold' and interrupt a specific action (opportunity action is taken just before trigger action) of another character. If the opportunity action is never triggered, the character's turn is lost.
+
 
 `Round` = approximately 4 seconds.
 (SM/RM's 10 sec. `round` effects need to be converted ad hoc)
