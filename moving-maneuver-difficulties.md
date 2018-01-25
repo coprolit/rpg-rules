@@ -44,3 +44,24 @@ behind a bush in broad daylight | Extremely Hard
 2.4m | Sheer Folly
 
 If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
+
+
+Routine: Climbing stairs in combat
+
+Easy: Climbing a ladder or knotted rope
+
+Light: Climbing a rope
+
+Medium: Climbing a tree with low hanging branches
+
+Hard: Climbing a stone wall (with frequent hand-holds)
+
+Very Hard: Climbing a rough wall (like a cliff face) or tree trunk
+
+Ext. Hard: Climbing a smooth wall (designed with few hand-holds)
+
+Sheer Folly: Climbing a surface with greater than a 90 degree angle
+
+Absurd: Climbing upside down on a stone surface
+
+(Athletic – Ag/St – All-or-nothing)
