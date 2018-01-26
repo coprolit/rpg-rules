@@ -173,7 +173,8 @@ A character can change his `pace` multiple up or down by 1 multiple each second 
 
 Pace multiplier | Description | MM Difficulty (Unencumbered, no pressure) | Modifier to simultaneous actions
 --- | --- | --- | ---
-x½ | Walking slow | - | 0
+x0.25 | Crawling | - | 0
+x½ | Walking slow / creeping | - | 0
 x1 | Walking (base) | - | -10 (Hard)
 x1½ | Jogging | - | -20 (Very Hard)
 x2 | Running | - | -30 (Extremely Hard)
