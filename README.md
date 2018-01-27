@@ -101,6 +101,7 @@ An unusual variety of `Maneuver` - the character can never quite be certain how 
 Modified by the appropriate Technical skill bonus.
 - [`Malfunction / Repair Maneuver Chart`](https://drive.google.com/open?id=18Vo4yWrWMYUSPOjC4sZEUapUlSwAleNp).
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
+- [repair modifiers](repair-modifiers.md)
 
 #### General Static Maneuvers
 Any other (not covered above) complex or unusual activity not involving significant movement.
