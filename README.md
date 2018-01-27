@@ -55,6 +55,7 @@ Any complex or unusual movement, or physical activities performed under stress (
 Any attempts to affect or harm an opponent with or without a weapon. Attacks are a special kind of maneuver where the result of a maneuver roll will usually require a second roll on the `Fumble and Failure Tables` or a specific critical table.
 - Resolved on an appropriate attack table (specific for weapon type).
 - [OB Modifiers](https://drive.google.com/open?id=1N1pcykiytz4mn3xdQHRkSuJltK1QSXYE)
+- [OB/DB Modifiers](ob-db-modifiers.md)
 - [hits taken modifiers](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 - [thrown rules](thrown-rules.md)
 
