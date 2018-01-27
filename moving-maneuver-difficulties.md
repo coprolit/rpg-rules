@@ -8,22 +8,24 @@ Dashing, x4 pace | Light
 Sprinting, x5 pace |	Medium
 **Climbing:** | -
 uphill | Routine
-Ladder, pile of rubble | Easy
+Climbing stairs in combat | Routine
+Ladder, pile of rubble, knotted rope | Easy
+Smooth rope | Light
 Wall with good handholds | Light
 Wall with adequate handholds | Medium
+Rough, brick wall of a cottage or a cliff | Medium
 Wall with poor handholds | Hard
 Rough, stone wall in the rain | Very Hard
 Wall with no proper handholds | Extremely Hard
-the smooth wall of a fortress | Sheer Folly
-Mountain climbing with equipment | Hard
-Mountain climbing, bare hands/ft | Very Hard
-Sheer obtuse angled wall w/ equip | Hard
-Sheer obtuse angled wall w/o equip | Sheer Folly
+Smooth wall | Sheer Folly
+Mountain, with equipment | Hard
+Mountain, bare hands/ft | Very Hard
+Sheer obtuse angled surface w/ equip | Hard
+Sheer obtuse angled surface w/o equip | Sheer Folly
+Upside down on a stone surface | Absurd
 Icy, Slippery, Oily, Wet |  +1 difficulty each
-Using secured rope | Light
 a tree with lots of low limbs | Easy
 a tree with some low limbs | Light
-the rough, brick wall of a cottage | Medium
 a tree with limbs lower than 20' | Hard
 **Hiding:** | -
 behind a large barrel in a dark cellar | Routine
@@ -45,23 +47,14 @@ behind a bush in broad daylight | Extremely Hard
 
 If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
 
-
-Routine: Climbing stairs in combat
-
-Easy: Climbing a ladder or knotted rope
-
-Light: Climbing a rope
-
-Medium: Climbing a tree with low hanging branches
-
-Hard: Climbing a stone wall (with frequent hand-holds)
-
-Very Hard: Climbing a rough wall (like a cliff face) or tree trunk
-
-Ext. Hard: Climbing a smooth wall (designed with few hand-holds)
-
-Sheer Folly: Climbing a surface with greater than a 90 degree angle
-
-Absurd: Climbing upside down on a stone surface
-
 (Athletic – Ag/St – All-or-nothing)
+
+
+| Terrain Condition | OB Mo | DB Mo |
+| --- | --- | --- |
+Heavy brush or thicket | -10 | NA
+Light brush or forest | - | NA
+Ice on ground | -5 | NA
+Knee-deep snow, water, or soft sand | -10 | 1/2 Quickness Bonus
+Waist-deep snow or water | -20 | Negates Quickness Bonus
+Shoulder-deep snow or water | -5 | Negates Quickness Bonus
