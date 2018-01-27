@@ -48,13 +48,3 @@ behind a bush in broad daylight | Extremely Hard
 If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
 
 (Athletic – Ag/St – All-or-nothing)
-
-
-| Terrain Condition | OB Mo | DB Mo |
-| --- | --- | --- |
-Heavy brush or thicket | -10 | NA
-Light brush or forest | - | NA
-Ice on ground | -5 | NA
-Knee-deep snow, water, or soft sand | -10 | 1/2 Quickness Bonus
-Waist-deep snow or water | -20 | Negates Quickness Bonus
-Shoulder-deep snow or water | -5 | Negates Quickness Bonus
