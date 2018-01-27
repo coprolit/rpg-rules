@@ -44,6 +44,14 @@ behind a bush in broad daylight | Extremely Hard
 1.7m | Hard
 1.8m | Very Hard
 2.4m | Sheer Folly
+**BREAKAGE**
+A glass window | Routine
+Paper | Routine
+String | Routine
+A small statuette | Routine
+Average handheld device | Medium
+Starship hullmetal (20) | Absurd
+Microfusion generator shielding (20) | Absurd
 
 If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
 
