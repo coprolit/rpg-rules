@@ -32,8 +32,9 @@ Height (attacking foe from higher ground, foe may parry) | +10
 Flank (attacking from the side, foe may parry) | +15
 Rear (attacking from behind foe, foe may not parry normally) | +20
 Foe unaware of attack (foe may not parry) | +20
-Foe Stunned | +20
-Foe Downed (melee attacks or point-blank ranged attacks only) | +40
+Foe Stunned* | +20
+Foe Downed* (melee attacks or point-blank ranged attacks only) | +40
+Prone Target* | +50
 
 *Only one may be applied at a time; all other modifiers
 are cumulative.
