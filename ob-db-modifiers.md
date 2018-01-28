@@ -6,6 +6,18 @@ Half Hard Cover | +50
 Full Hard Cover | +10
 Half Reinforced Cover | +50
 
+| Position | OB Modifier
+| --- | --- |
+Height (attacking foe from higher ground, foe may parry) | +10
+Flank (attacking from the side, foe may parry) | +15
+Rear (attacking from behind foe, foe may not parry normally) | +20
+Foe unaware of attack (foe may not parry) | +20
+Foe Stunned | +20
+Foe Downed (melee attacks or point-blank ranged attacks only) | +40
+
+*Only one may be applied at a time; all other modifiers
+are cumulative.
+
 | Terrain Condition | OB Mo | DB Mo |
 | --- | --- | --- |
 Heavy brush or thicket | -10 | NA
