@@ -1,10 +1,19 @@
 | COVER | DB Bonus |
 | --- | --- |
 Half Soft Cover | +20
-Full Soft Cover | +4
+Full Soft Cover | +40
 Half Hard Cover | +50
-Full Hard Cover | +10
+Full Hard Cover | +100
 Half Reinforced Cover | +50
+Full Reinforced Cover | +100
+
+Only one type of cover may be used at a given time.
+
+- `Half cover` covers approximately 50% of a character’s body,
+- `Full cover` covers 80% or more of the characters body.
+- `Soft cover` is defined as something that hinders an attack, but not well enough to fully absorb the blow (such as a bush or a
+sheet hanging on a line to dry).
+- `Hard cover` is defined as being so sturdy that most damaging effects cannot get through it immediately (such as a low wall, over-turned table, or full walls). 
 
 | Position | OB Modifier
 | --- | --- |
