@@ -1,3 +1,11 @@
+| COVER | DB Bonus |
+| --- | --- |
+Half Soft Cover | +20
+Full Soft Cover | +4
+Half Hard Cover | +50
+Full Hard Cover | +10
+Half Reinforced Cover | +50
+
 | Terrain Condition | OB Mo | DB Mo |
 | --- | --- | --- |
 Heavy brush or thicket | -10 | NA
