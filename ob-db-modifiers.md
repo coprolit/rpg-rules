@@ -1,3 +1,5 @@
+### Cover
+
 | COVER | DB Bonus |
 | --- | --- |
 Half Soft Cover | +20
@@ -15,6 +17,11 @@ Only one type of cover may be used at a given time.
 sheet hanging on a line to dry).
 - `Hard cover` is defined as being so sturdy that most damaging effects cannot get through it immediately (such as a low wall, over-turned table, or full walls). 
 
+Prolonged or concentrated burst fire from advanced weapons can degrade `Hard Cover` into `Soft Cover`.
+
+- `Reinforced cover` is defined as being specifically hardened against attacks (such as blast doors, closed habitat domes, or starship hulls). While it is not impenetrable, even advanced personal weaponry will take a long time to reduce its efficacy.
+
+### Position
 | Position | OB Modifier
 | --- | --- |
 Height (attacking foe from higher ground, foe may parry) | +10
@@ -27,6 +34,7 @@ Foe Downed (melee attacks or point-blank ranged attacks only) | +40
 *Only one may be applied at a time; all other modifiers
 are cumulative.
 
+### Terrain
 | Terrain Condition | OB Mo | DB Mo |
 | --- | --- | --- |
 Heavy brush or thicket | -10 | NA
