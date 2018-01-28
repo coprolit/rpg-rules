@@ -9,6 +9,7 @@ Tactical game time is tracked in rounds, with combattants taking turns to perfor
 3) Perform clean-up.
 
 **Hold action** - A character can set his turn on 'hold' and take it later after a specified character's turn in the same round.
+**Holding Initiative** - Sometimes a character may wish to “hold” his action, choosing to delay taking his turn to wait and see what might happen. On his initiative, a character may declare that he is holding his action and choose to do nothing. At any point before the end of the round he may choose to re-join the initiative and take his action.
 **Opportunity action** - A character set his turn on 'hold' and interrupt a specific action (opportunity action is taken just before trigger action) of another character. If the opportunity action is never triggered, the character's turn is lost.
 
 
