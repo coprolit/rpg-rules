@@ -1,3 +1,5 @@
+`DB` A combatant’s Defensive Bonus is modified by three times his Quickness stat bonus or penalty. If the defender is wearing certain types of cumbersome armor, this tripled Quickness stat bonus may be reduced or eliminated completely by the armor’s Armor Quickness Penalty (but never below zero);
+
 ### Cover
 
 | COVER | DB Bonus |
