@@ -3,7 +3,7 @@
 
 | Description | Difficulty |
 | --- | --- |
-| Running fast, x3 pace | Easy |
+Running fast, x3 pace | Easy
 Dashing, x4 pace | Light
 Sprinting, x5 pace |	Medium
 **Climbing:** | -
@@ -52,6 +52,17 @@ A small statuette | Routine
 Average handheld device | Medium
 Starship hullmetal (20) | Absurd
 Microfusion generator shielding (20) | Absurd
+
+**Terrain:**
+Easy (+20): Perfectly flat and uniform terrain
+Light (+10): Nearly flat surface with no obstacles
+Medium (0): Mostly flat and open area
+Hard (-10): Rough and rocky road, furnished room
+Very Hard (-20): Sloping and rocky, people in the way
+Extremely Hard (-30): Modest slopes/rocks, light crowd
+Sheer Folly (-50): Numerous obstacles, steep, crowds
+Absurd (-70): Dense obstacles, packed crowd
+Nigh Impossible (-100): Sheer cliff, tightly packed crowd
 
 If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
 
