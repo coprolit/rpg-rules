@@ -3,6 +3,7 @@
 
 | Description | Difficulty |
 | --- | --- |
+**Running:** | -
 Running fast, x3 pace | Easy
 Dashing, x4 pace | Light
 Sprinting, x5 pace |	Medium
