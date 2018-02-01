@@ -1,6 +1,6 @@
 ## Tech skills
 
-### Techs
+### Technology types
 `Mechanical` - mechanical devices with physically moving parts, e.g. mechanical locks, traps, weaponry, engines, power systems, fluid systems, etc.
 
 `Electronical` - electronic devices and control systems, e.g. computers, sensors, radios, optics, electronic locks, electronic traps, surveillance systems and a host of other high-tech security devices, electric motors, circuit boards, etc.
