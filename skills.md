@@ -1,5 +1,7 @@
 ## Tech skills
 
+Tech skills are spread over three different technology types:
+
 ### Technology types
 `Mechanical` - mechanical devices with physically moving parts, e.g. mechanical locks, traps, weaponry, engines, power systems, fluid systems, etc.
 
@@ -8,11 +10,11 @@
 `Software` - software applications, microcontroller firmware, etc.
 
 ### Skills
-`Tech Use` - Unusual operation, or operation under stress.
+`Mechanical Use` / `Electronical Use` / `Software Use` - Unusual operation, or operation under stress.
 
-`Tech Modification` - Skill used for repairing, modifying, altering, neutralizing and bypassing. Locks and traps of various difficulty levels may be represented by appropriate subtractions from this roll (determined by the GM).
+`Mechanical Modification` / `Electronical Modification` / `Software Modification` - Skill used for repairing, modifying, altering, neutralizing and bypassing. Locks and traps of various difficulty levels may be represented by appropriate subtractions from this roll (determined by the GM).
 
-`Tech Construction` - Skill used to design and construct, and analyzing devices or programs.
+`Mechanical Construction` / `Electronical Construction` / `Software Construction` - Skill used to design and construct, and analyzing devices or programs.
 
 ### Requirements
 **Electrics toolkit** is required for `Electronic Modification` and `Electronic Construction` tasks.
