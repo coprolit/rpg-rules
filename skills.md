@@ -1,6 +1,6 @@
 ## Tech skills
 
-Tech skills are spread over three different technology types:
+Tech skills are specialized according to a technology type:
 
 ### Technology types
 `Mechanical` - mechanical devices with physically moving parts, e.g. mechanical locks, traps, weaponry, engines, power systems, fluid systems, etc.
