@@ -1,6 +1,6 @@
 # Movement Rules
 ### Moving Rate and Pace
-Walking Moving Rate: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10 sec.
+Walking Moving Rate pr. second: 17 x [1 + (St mod + Qu mod)/100] pr. rnd / 10 sec.
 
 `Moving Rate`: Walking Moving Rate x Pace multiplier
 
