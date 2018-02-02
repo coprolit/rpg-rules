@@ -1,4 +1,4 @@
-## Tech skills
+# Tech skills
 
 Tech skills are specialized, focusing on a distinct technology type:
 
