@@ -1,6 +1,6 @@
 ## Tech skills
 
-Tech skills are specialized according to a technology type:
+Tech skills are specialized, focusing on a distinct technology type:
 
 ### Technology types
 `Mechanical` - mechanical devices with physically moving parts, e.g. mechanical locks, traps, weaponry, engines, power systems, fluid systems, etc.
