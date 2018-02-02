@@ -2,6 +2,7 @@
 
 - [**Dice rolling conventions**](dice-rolling-conventions.md)
 - [**Movement Rules**](movement-rules.md)
+- [**Tech skills**](skills.md)
 
 # Character Activity Rules
 
