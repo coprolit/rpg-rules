@@ -4,7 +4,7 @@ _A defender only has three times his Quickness stat bonus factored into his DB i
 
 `OB` The **Offensive Bonus** is the attacker’s modifier to the attack roll. It consists of his skill bonus with the weapon used (modified for range if applicable), any special bonus granted by the weapon itself, and any additional modifiers imposed by the GM.
 
-_Some or all of this **Offensive Bonus** may be shifted to defense if desired._
+_Some or all of this OB may be shifted to defense if desired._
 
 ## Sample OB and DB modifiers
 
