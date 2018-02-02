@@ -32,7 +32,7 @@ Prolonged or concentrated burst fire from advanced weapons can degrade `Hard Cov
 - `Reinforced cover` is defined as being specifically hardened against attacks (such as blast doors, closed habitat domes, or starship hulls). While it is not impenetrable, even advanced personal weaponry will take a long time to reduce its efficacy.
 
 ### Position
-| Position | OB Modifier
+| Position | OB Modifier |
 | --- | --- |
 Height (attacking foe from higher ground, foe may parry) | +10
 Flank (attacking from the side, foe may parry) | +15
