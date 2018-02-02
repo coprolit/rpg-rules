@@ -1,3 +1,5 @@
+## Thrown objects rules
+
 1) Make open-ended roll adding appropriate skill bonus, [`Thrown range modifiers`](https://drive.google.com/open?id=1cCzFDceY__dXSkT-jjuAQYZr5cL_3eVx), etc.
 2) If result is:
 - 100+, the object has landed exactly as intended
