@@ -1,6 +1,8 @@
 # Movement Rules
 ### Moving Rate and Pace
-`Moving Rate`: Walking Moving Rate x Pace multiplier
+`BMR`: **Base Moving Rate** = walking moving rate pr. second = 1,2 m + Quickness/2 + Stride
+
+`Moving Rate`: **BMR**  x Pace multiplier
 
 A character can change his `pace` multiple up or down by 1 multiple each second he is moving.
 
