@@ -8,6 +8,8 @@ The tactical round is played out in 3 phases:
 - Resolution,
 - and Upkeep.
 
+Actions are assigned a number of `Action Points` (AP) to represent the time required. Combatants receive **4 Action Points every round**, which may be spent among any number of actions.
+
 ### Initiative
 `initiative` - determines the order in which combatants resolve their actions.
 
@@ -15,6 +17,7 @@ Base initiative is rolled once at the start of any time-sensitive, tactical situ
 
 **Base Initiative = 2d10 + Qu - (1 for every -10 penalty)**
 
+**Actual Initiative = Base Initiative + (remaining Action Points x 5)**
 
 
 ### Resolution
