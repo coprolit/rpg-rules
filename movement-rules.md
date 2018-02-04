@@ -6,7 +6,7 @@
 
 A character can change his `pace` multiple up or down by 1 multiple each second he is moving.
 
-Pace multiplier | Description | Modifier to simultaneous maneuvers
+Pace multiplier | Description | Pace penalty to simultaneous maneuvers
 --- | --- | ---
 x0.25 | Crawl / Climb | NA
 x½ | Creep / Slow Walk | -5
