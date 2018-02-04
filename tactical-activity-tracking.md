@@ -1,43 +1,33 @@
 # Tactical Activity Tracking Rules
 
-Intent is to combine the second-by-second (simultaneous) and turn-based (sequential) tracking systems into a sligthly less realistic, but more managable system - that still allow for tactical interactions (reactions).
+## Tactical round
+In a tactical situation, action is tracked in rounds of five seconds. During a `round` combatans perform actions (movement, attack, etc.) by roughly ordering the characters’ actions based on when they would be completed (short actions complete before longer actions).
 
-Tactical game time is tracked in rounds, with combattants taking turns to perform 1 medium action, or 2 minor actions, or ½ of a major action, per round.
+The tactical round is played out in 3 phases:
+- Initiative,
+- Resolution,
+- and Upkeep.
 
-1) Roll initiative, Qu bonus + 2d10.
-2) Perform actions highest to lowest.
-3) Perform clean-up.
+### Initiative
+`initiative` - determines the order in which combatants resolve their actions.
 
-**Hold action** - A character can set his turn on 'hold' and take it later after a specified character's turn in the same round.
-**Holding Initiative** - Sometimes a character may wish to “hold” his action, choosing to delay taking his turn to wait and see what might happen. On his initiative, a character may declare that he is holding his action and choose to do nothing. At any point before the end of the round he may choose to re-join the initiative and take his action.
-**Opportunity action** - A character set his turn on 'hold' and interrupt a specific action (opportunity action is taken just before trigger action) of another character. If the opportunity action is never triggered, the character's turn is lost.
+Base initiative is rolled once at the start of any time-sensitive, tactical situation:
+
+**Base Initiative = 2d10 + Qu - (1 for every -10 penalty)**
 
 
-`Round` = approximately 4 seconds.
-(SM/RM's 10 sec. `round` effects need to be converted ad hoc)
 
-### Medium actions
-- Firearm fire
-- Ammo clip reload
-- Movement/acrobatics
-- ½ Melee attack (-50)
-- change weapon
-- throw something
+### Resolution
 
-### Minor actions
-- Change stance one degree (prone <> kneel/crouch <> standing)
-- Drop to prone
-- Picking up something
-- Draw weapon
-- Sheath weapon
+### Upkeep
 
-### Major actions (spans 2 rounds)
-- Full melee attack/parry
-- Dodge
-- First aid
-- Misc. static actions (e.g. replacing power supply)
+Specific actions are declared when they are started, and resolved (e.g., roll a maneuver) when they are completed.
 
-Major actions can be performed as a medium action with a -50 modifier to roll.
 
-Melee range = 3m
-While in melee, max movement is 3m.
+## Actions
+Specific actions are declared when they are started, and resolved (e.g., roll a maneuver) when they are completed.
+
+
+### parry
+The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues.
+
