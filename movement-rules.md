@@ -1,6 +1,6 @@
 # Movement Rules
 ### Moving Rate and Pace
-`BMR`: **Base Moving Rate** (pr. second) = 1,2 m + Quickness/2 + Stride
+`BMR`: **Base Moving Rate** (pr. second) = 1.4 m/s + Quickness/2 + Stride
 
 `Moving Rate`: **BMR**  x Pace multiplier
 
