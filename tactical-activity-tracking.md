@@ -104,6 +104,7 @@ If a combatant closes into melee at high speed (relative to defender), then he h
 
 **Conditional Actions**
 A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
+Conditional actions can be held for as many rounds as the character can maintain unbroken concentration.
 
 **Canceling action**
 An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
