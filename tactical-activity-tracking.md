@@ -26,11 +26,11 @@ Initiative is rolled anew every round by every combatant and determines the orde
 
 Base initiative is rolled once at the start of any time-sensitive, tactical situation:
 
-**Base Initiative = 2d10 + Qu - (1 for every -10 penalty)**
+`Base Initiative` = **2d10 + Qu - (1 for every -10 penalty)**
 
 The actual initiatives that actions are declared and resolved on are based on how many `Actions Points` the combatant has remaining. Add **5 for every for every AP left**. Actions are declared before the Action Points are spent, and are resolved after the Action Points are spent. 
 
-**Actual Initiative = Base Initiative + (remaining Action Points x 5)**
+`Actual Initiative` = **Base Initiative + (remaining Action Points x 5)**
 
 ### Resolution
 During the Resolution phase combatants declare and resolve their actions based on `initiative`, by counting down from the highest initiative to the lowest.
@@ -53,9 +53,9 @@ The last step in the round is to account for ongoing effects. During upkeep, the
 
 
 ## Actions
-Specific actions are declared when they are started, and resolved (e.g., roll a maneuver) when they are completed.
+Actions include any activity the character performs including movement, shooting, melee, or retrieving items from a backpack.
 
-**Fixed/range of AP** Some actions require a fixed number of Action Points, while others are given a range, such as 2 – 4. Actions with a range of AP can be performed more quickly at a penalty of **-25 for each AP less than the normal maximum**.
+Some actions require a fixed number of `Action Points`, while others are given a range, such as 2 – 4. Actions with a range of AP can be performed more quickly at a penalty of **-25 for each AP less than the normal maximum**.
 
 **Instantaneous actions** Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however any further instantaneous actions performed that round take 1 AP each. This represents the fact that no action is strictly instantaneous.
 
