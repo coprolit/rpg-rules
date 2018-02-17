@@ -22,7 +22,7 @@ The tactical round is played out in 3 phases:
 - and Upkeep.
 
 ### Initiative
-Initiative is rolled anew every round by every combatant and determines the order in which combatants declare and resolve their actions, by counting down from the highest initiative to the lowest.
+Initiative is rolled anew every round by every combatant and determines the order in which combatants declare and resolve their actions.
 
 Base initiative is rolled once at the start of any time-sensitive, tactical situation:
 
