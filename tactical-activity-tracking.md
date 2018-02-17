@@ -11,7 +11,7 @@ Actions that take more `Action Points` (time) will resolve later in the round, a
 
 `Action` - Actions include any activity the character performs including movement, shooting, melee, or retrieving items from a backpack.
 
-`Action Points`- Actions are assigned a number of `Action Points` (AP) to represent the time required (see AP table). Combatants receive **4** `Action Points` every round, which may be spent among any number of actions.
+`Action Points`- Actions are assigned a number of `Action Points` (AP) to represent the time required (see [AP table](https://github.com/coprolit/rpg-rules/blob/master/tactical-activity-tracking.md#actions)). Combatants receive **4** `Action Points` every round, which may be spent among any number of actions.
 
 ## Tactical round
 During a round, actions resolve when they would be completed in order by counting down from the highest initiative to the lowest.
