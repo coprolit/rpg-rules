@@ -59,7 +59,7 @@ Some actions require a fixed number of `Action Points`, while others are given a
 
 | Action | AP cost | - |
 | --- | --- | --- |
-Ranged Attack | 1 - 3 |
+Ranged Attack | 1-3 |
 Melee Attack | 2-4 |
 Thrown Attack | 2-4 |
 Dodge | 4 |
@@ -68,10 +68,10 @@ Use shield in melee | 0 |
 _ | |
 Movement | special | 1 pace change allowed per tick
 Mount/dismount | 4 |
-Rapid dismount | 2 | Medium MM, end up prone.
+Rapid dismount | 2 |
 Prone <-> Stand | 1 |
 _ | |
-Perception | 1 - 2 |
+Perception | 1-2 |
 Orientation Maneuver | 0 | Result is a delay (penalty to initiative): Failure = can perform no actions in round, Partial success = -20, Near success = -10, Success = 0
 _ | |
 Draw weapon/ammo/item | 1 |
