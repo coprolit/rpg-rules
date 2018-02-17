@@ -44,7 +44,9 @@ behind a bush in broad daylight | Extremely Hard
 1.7m | Hard
 1.8m | Very Hard
 2.4m | Sheer Folly
-**Breaking stuff** | -
+**Rapid dismounting** | Medium, end up prone
+**Diving for cover** | Medium, end up prone
+**Breaking stuff**: | -
 A glass window | Routine
 Paper | Routine
 String | Routine
