@@ -89,25 +89,3 @@ Movement | special
 ### parry
 The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues.
 
-
-## Tactical round
-During a round, actions resolve when they would be completed in order by counting down from the highest initiative to the lowest.
-
-The tactical round is played out in 3 phases:
-- Initiative,
-- Resolution,
-- and Upkeep.
-
-
-### Initiative
-`initiative` - determines the order in which combatants declare and resolve their actions, from highest to lowest initiative.
-
-Base initiative is rolled once at the start of any time-sensitive, tactical situation:
-
-**Base Initiative = 2d10 + Qu - (1 for every -10 penalty)**
-
-The actual initiatives that actions are declared and resolved on are based on how many `Actions Points` the combatant has remaining. Add **5 for every for every AP left**. Actions are declared before the Action Points are spent, and are resolved after the Action Points are spent. 
-
-**Actual Initiative = Base Initiative + (remaining Action Points x 5)**
-
-
