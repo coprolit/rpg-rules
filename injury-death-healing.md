@@ -35,4 +35,7 @@ Half recovery time if the victim is hospitalied or placed in some other special 
 ### Death
 A character can die if he takes enough damage to reach negative hits greater than his Body Development skill bonus (e.g., a character with +67 Body Development will die when he reaches -68 hits).
 
+The soul will depart the body in five minutes. If someone heals enough of these hits (before the five minutes are up) to drop the
+total under the sum mentioned above, then death will not occur due to excessive hits.
+
 In addition to death from hits, some injuries may cause instant death or death within a given time period.
