@@ -108,7 +108,7 @@ A conditional action is a **held action** that will be triggered when certain co
 **Canceling action**
 An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
-**parry**
+**Parry**
 The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues. At the beginning of the round, a player should know what his Defensive Bonus is against each of his opponents.
 
 For melee actions that are utilizing `parry`, the `Action Points` are considered **spent once the parry is used**. This prevents combatants from parrying then deciding to do something else. However, the actual attack occurs at the normal initiative even if the benefits from the parry are realized earlier (as the result of being attacked).
