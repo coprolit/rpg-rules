@@ -57,7 +57,7 @@ Actions include any activity the character performs including movement, shooting
 
 Some actions require a fixed number of `Action Points`, while others are given a range, such as 2 – 4. Actions with a range of AP can be performed more quickly at a penalty of **-25 for each AP less than the normal maximum**.
 
-| Action | AP cost | |
+| Action | AP cost | - |
 | --- | --- | --- |
 Ranged Attack | 1 - 3 |
 Melee Attack | 2-4 |
@@ -66,13 +66,13 @@ Dodge | 4 |
 Ammo reload | 3 |
 Draw weapon/ammo/item | 1 |
 Use shield in melee | 0 |
-- | - | -
+_ | |
 Movement | special | 1 pace change allowed per. sec.
 Mount/dismount | 4 |
 Prone <-> Stand | 1 |
-- | - | -
+_ | |
 Perception | 1 - 2 |
-- | - | -
+_ | |
 Get item from ground | 3 |
 Drop item | 0 |
 Shift item to other hand | 1 |
