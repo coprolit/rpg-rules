@@ -1,6 +1,5 @@
 ## Sample moving maneuver difficulties:
 
-
 | Description | Difficulty |
 | --- | --- |
 **Running:** | -
