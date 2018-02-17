@@ -103,7 +103,8 @@ The defender, assuming his weapon is readied and he is not engaged in other acti
 If a combatant closes into melee at high speed (relative to defender), then he has the potential for a more damaging blow. This is called charging, which sacrifices accuracy (reflected in the penalty due to pace) in favor of power. A successful charge increases the size of the attack based on the charger’s speed as shown in Table 7-2.
 
 **Conditional Actions**
-A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
+A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” (and AP is spend) when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
+
 Conditional actions can be held for as many rounds as the character can maintain unbroken concentration.
 
 **Canceling action**
