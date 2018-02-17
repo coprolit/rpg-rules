@@ -57,26 +57,27 @@ Actions include any activity the character performs including movement, shooting
 
 Some actions require a fixed number of `Action Points`, while others are given a range, such as 2 – 4. Actions with a range of AP can be performed more quickly at a penalty of **-25 for each AP less than the normal maximum**.
 
-| Action | AP cost |
-| --- | --- |
-Drop item | 0
-Use shield in melee | 0
-Shift item to other hand | 1
-Draw weapon/ammo/item | 1
-Prone <-> Stand | 1
-Perception | 1 - 2
-Ranged Attack | 1 - 3
-Eat or drink (herb/potion) | 2
-Melee Attack | 2-4
-Get item from ground | 3
-Dodge | 4
-Mount/dismount | 4
-Reload | 6
-Load Light Crossbow | 8
-Load Heavy Crossbow | 16
-Pick Lock / Disarm Trap | 20
-Hold position (Swim/Climb) | C
+| Action | AP cost | |
+| --- | --- | --- |
+Ranged Attack | 1 - 3 |
+Melee Attack | 2-4 |
+Thrown Attack | 2-4 |
+Dodge | 4 |
+Ammo reload | 3 |
+Draw weapon/ammo/item | 1 |
+Use shield in melee | 0 |
+- | - | -
 Movement | special | 1 pace change allowed per. sec.
+Mount/dismount | 4 |
+Prone <-> Stand | 1 |
+- | - | -
+Perception | 1 - 2 |
+- | - | -
+Get item from ground | 3 |
+Drop item | 0 |
+Shift item to other hand | 1 |
+Eat or drink (medicals) | 2 |
+Pick Lock / Disarm Trap | 20 |
 
 **Instantaneous actions** Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however **any further instantaneous actions performed that round take 1 AP each**. This represents the fact that no action is strictly instantaneous.
 
