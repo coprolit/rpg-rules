@@ -63,16 +63,19 @@ Ranged Attack | 1 - 3 |
 Melee Attack | 2-4 |
 Thrown Attack | 2-4 |
 Dodge | 4 |
-Ammo reload | 3 |
-Draw weapon/ammo/item | 1 |
+Ammo reload | 6 |
 Use shield in melee | 0 |
 _ | |
-Movement | special | 1 pace change allowed per. sec.
+Movement | special | 1 pace change allowed per tick
 Mount/dismount | 4 |
+Rapid dismount | 2 | Medium MM, end up prone.
 Prone <-> Stand | 1 |
 _ | |
 Perception | 1 - 2 |
+Orientation Maneuver | 0 | Result is a delay (penalty to initiative): Failure = can perform no actions in round, Partial success = -20, Near success = -10, Success = 0
 _ | |
+Draw weapon/ammo/item | 1 |
+Sheath weapon/ammo/item | 2 |
 Get item from ground | 3 |
 Drop item | 0 |
 Shift item to other hand | 1 |
@@ -85,6 +88,9 @@ Pick Lock / Disarm Trap | 20 |
 
 **Movement** Movement is a unique action during the combat round, because it is often combined with other actions, such as
 shooting while moving forward, advancing while drawing a weapon, or charging into combat. An [action penalty](https://github.com/coprolit/rpg-rules/blob/master/movement-rules.md) based on one’s movement pace applies to all other actions performed in the round.
+
+**Conditional Actions**
+A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
 
 ### parry
 The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues.
