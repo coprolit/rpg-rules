@@ -8,7 +8,7 @@ A character can change his `pace` multiple up or down by 1 multiple each second 
 
 Pace multiplier | Description | Pace penalty to simultaneous maneuvers | MM difficulty
 --- | --- | --- | ---
-x0.25 | Crawl / Climb | NA | see [MM rules](https://github.com/coprolit/rpg-rules/blob/master/moving-maneuver-difficulties.md)
+x0.25 | Crawl / Climb / Swim | NA | see [MM rules](https://github.com/coprolit/rpg-rules/blob/master/moving-maneuver-difficulties.md)
 x½ | Creep / Slow Walk | -5 |
 x1 | Walk (base) | -10 |
 x1½ | Brisk | -20 |
@@ -17,8 +17,10 @@ x3 | Run | -40 | Easy
 x4 | Sprint | -70 | Light
 x5 | Dash | -100 | Medium
 
-- Characters can move no faster than **brisk** backwards, and the maneuver penalty is **doubled**.
+- Characters can move no faster than **brisk** backwards, and the maneuver penalty is **doubled**. He suffers a penalty of -10 (backwards creep), -20 (backwards walk), or -40 (backwards brisk) while fighting.
 - Characters who are prone can move no faster than **walk** pace, and the maneuver penalty is **quadrupled**.
+
+For normal movement, a roll is not required; however, for stressful situations such as moving in rough terrain or while stunned, a movement roll is required (using the appropriate skill of Running, Swimming, etc.). For example, a combatant who is running in a zigzag toward an enemy outpost should make a maneuver roll; likewise, a maneuver roll is called for if a combatant is stunned or moving across slick ground, broken terrain, or other similar obstacles.
 
 MM task results apply as normal. The result is the percentage of the distance they would normally move given their rate of speed.
 
