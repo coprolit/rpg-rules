@@ -86,31 +86,34 @@ Apply first aid	| 8 |	per hit/round
 Pick Lock / Disarm Trap | 20 |
 Misc. Static Action	| 8+ |
 
-**Instantaneous actions** Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however **any further instantaneous actions performed that round take 1 AP each**. This represents the fact that no action is strictly instantaneous.
+#### Instantaneous actions
+Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however **any further instantaneous actions performed that round take 1 AP each**. This represents the fact that no action is strictly instantaneous.
 
-**Round to Round Actions** A few actions may require more than 4 AP such as donning or removing armor, or picking a complicated lock. These actions take multiple rounds to complete and must usually be performed uninterrupted by other actions (although they may be combined with other actions such as movement).
+#### Round to Round Actions
+A few actions may require more than 4 AP such as donning or removing armor, or picking a complicated lock. These actions take multiple rounds to complete and must usually be performed uninterrupted by other actions (although they may be combined with other actions such as movement).
 
-**Movement** Movement is a unique action during the combat round, because it is often combined with other actions, such as
+#### Movement
+Movement is a unique action during the combat round, because it is often combined with other actions, such as
 shooting while moving forward, advancing while drawing a weapon, or charging into combat. An [action penalty](https://github.com/coprolit/rpg-rules/blob/master/movement-rules.md) based on one’s movement pace applies to all other actions performed in the round.
 
-**Closing**
+#### Closing
 Closing occurs any time a combatant gets within melee combat range of another combatant (3m). If a combatant is within melee range at any point in the round, he gets to attack with a penalty due to his pace.
 This represents an initial ‘clash of blades’ that could be anywhere from one to a few seconds but can be just as deadly (or ineffective) as a full round of combat.
 
 The defender, assuming his weapon is readied and he is not engaged in other activities, does not get a penalty and can attack and parry as normal.
 
-**Charging**
+#### Charging
 If a combatant closes into melee at high speed (relative to defender), then he has the potential for a more damaging blow. This is called charging, which sacrifices accuracy (reflected in the penalty due to pace) in favor of power. A successful charge increases the size of the attack based on the charger’s speed as shown in Table 7-2.
 
-**Conditional Actions**
+#### Conditional Actions
 A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” (and AP is spend) when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
 
 Conditional actions can be held for as many rounds as the character can maintain unbroken concentration.
 
-**Canceling action**
+#### Canceling action
 An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
-**Parry**
+#### Parry
 The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues. At the beginning of the round, a player should know what his Defensive Bonus is against each of his opponents.
 
 For melee actions that are utilizing `parry`, the `Action Points` are considered **spent once the parry is used**. This prevents combatants from parrying then deciding to do something else. However, the actual attack occurs at the normal initiative even if the benefits from the parry are realized earlier (as the result of being attacked).
