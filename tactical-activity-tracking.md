@@ -57,13 +57,6 @@ Actions include any activity the character performs including movement, shooting
 
 Some actions require a fixed number of `Action Points`, while others are given a range, such as 2 – 4. Actions with a range of AP can be performed more quickly at a penalty of **-25 for each AP less than the normal maximum**.
 
-**Instantaneous actions** Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however any further instantaneous actions performed that round take 1 AP each. This represents the fact that no action is strictly instantaneous.
-
-**Round to Round Actions** A few actions may require more than 4 AP such as donning or removing armor, or picking a complicated lock. These actions take multiple rounds to complete and must usually be performed uninterrupted by other actions (although they may be combined with other actions such as movement).
-
-**Tactical Movement** Movement is a unique action during the combat round, because it is often combined with other actions, such as
-shooting while moving forward, advancing while drawing a weapon, or charging into combat. An action penalty based on one’s movement pace applies to all other actions performed in the round.
-
 | Action | AP cost |
 | --- | --- |
 Drop item | 0
@@ -85,6 +78,12 @@ Pick Lock / Disarm Trap | 20
 Hold position (Swim/Climb) | C
 Movement | special
 
+**Instantaneous actions** Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however any further instantaneous actions performed that round take 1 AP each. This represents the fact that no action is strictly instantaneous.
+
+**Round to Round Actions** A few actions may require more than 4 AP such as donning or removing armor, or picking a complicated lock. These actions take multiple rounds to complete and must usually be performed uninterrupted by other actions (although they may be combined with other actions such as movement).
+
+**Tactical Movement** Movement is a unique action during the combat round, because it is often combined with other actions, such as
+shooting while moving forward, advancing while drawing a weapon, or charging into combat. An action penalty based on one’s movement pace applies to all other actions performed in the round.
 
 ### parry
 The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues.
