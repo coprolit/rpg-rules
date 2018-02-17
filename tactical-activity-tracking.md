@@ -1,7 +1,7 @@
 # Tactical Activity Tracking Rules
 To break up the action into manageable periods and to simplify tracking of durations for movement, attacks, injuries and other effects, action occurs in time periods of five seconds, which are called rounds.
 
-During a `round` characters’ actions are roughly ordered based on when they would be completed, using a `initiative` count to track the duration and order of actions: The GM counts down a `initiative` 'clock' while combatants declare `actions`, and spend `Action Points` to perform `actions` when they complete.
+During a `round` characters’ actions are roughly ordered based on when they would be completed, using a `initiative` timer to track the duration and order of actions: The GM counts down the `initiative` while combatants declare `actions`, and spend `Action Points` to perform `actions` when they complete.
 
 Actions that take more `Action Points` (time) will resolve later in the round, although combatants with high `initiative` have a chance to complete long actions before others complete shorter actions.
 
