@@ -1,7 +1,7 @@
 # Injury, death, healing rules
 
 ### Hits taken
-Concussion hits are an abstract way of tracking a character’s pain, degrees of injuries and hold on consciousness.
+Hits represent light injuries (bruises, cuts), general pain, minor blood loss, the will to keep fighting and hold on consciousness.
 
 #### Unconsciousness
 A character reduced to 0 or less hits will fall unconscious. Characters at less than full hits will feel bruised, beaten and shaken.
@@ -10,7 +10,7 @@ A character reduced to 0 or less hits will fall unconscious. Characters at less 
 1 per hour if the character rests (1 per three hours if the character is active).
 
 ### Injuries
-Injuries (specific damage to a part of the body), apply a penalty that represents the pain and incapacity caused by the injury. They require longer recovery even after being ‘healed’.
+Injuries (specific damage to a part of the body as a result of criticals), apply a penalty that represents the pain and incapacity caused by the injury. They require longer recovery even after being treated.
 
 #### Severity
 Injuries are assigned a severity depending on the penalty or amount of bleeding:
