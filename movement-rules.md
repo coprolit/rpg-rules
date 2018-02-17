@@ -10,9 +10,9 @@ Pace multiplier | Description | Pace penalty to simultaneous maneuvers
 --- | --- | ---
 x0.25 | Crawl / Climb | NA
 x½ | Creep / Slow Walk | -5
-x1 | Walk (base) | -10 (Hard)
-x1½ | Brisk | -20 (Very Hard)
-x2 | Jog | -30 (Extremely Hard)
+x1 | Walk (base) | -10
+x1½ | Brisk | -20
+x2 | Jog | -30
 x3 | Run | -40
 x4 | Sprint | -70
 x5 | Dash | -100
