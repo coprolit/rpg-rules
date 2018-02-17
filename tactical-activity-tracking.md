@@ -79,8 +79,12 @@ Sheath weapon/ammo/item | 2 |
 Get item from ground | 3 |
 Drop item | 0 |
 Shift item to other hand | 1 |
+_ | |
 Eat or drink (medicals) | 2 |
+Power supply reload	| 8 |
+Apply first aid	| 8 |	per hit/round
 Pick Lock / Disarm Trap | 20 |
+Misc. Static Action	| 8+ |
 
 **Instantaneous actions** Some actions occur so quickly they are treated as instantaneous (0 AP); the first such action costs 0 AP and is thus a “free” action taking no time during the round, however **any further instantaneous actions performed that round take 1 AP each**. This represents the fact that no action is strictly instantaneous.
 
@@ -89,9 +93,22 @@ Pick Lock / Disarm Trap | 20 |
 **Movement** Movement is a unique action during the combat round, because it is often combined with other actions, such as
 shooting while moving forward, advancing while drawing a weapon, or charging into combat. An [action penalty](https://github.com/coprolit/rpg-rules/blob/master/movement-rules.md) based on one’s movement pace applies to all other actions performed in the round.
 
+**Closing**
+Closing occurs any time a combatant gets within melee combat range of another combatant (3m). If a combatant is within melee range at any point in the round, he gets to attack with a penalty due to his pace.
+This represents an initial ‘clash of blades’ that could be anywhere from one to a few seconds but can be just as deadly (or ineffective) as a full round of combat.
+
+The defender, assuming his weapon is readied and he is not engaged in other activities, does not get a penalty and can attack and parry as normal.
+
+**Charging**
+If a combatant closes into melee at high speed (relative to defender), then he has the potential for a more damaging blow. This is called charging, which sacrifices accuracy (reflected in the penalty due to pace) in favor of power. A successful charge increases the size of the attack based on the charger’s speed as shown in Table 7-2.
+
 **Conditional Actions**
 A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
 
-### parry
-The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues.
+**Canceling action**
+An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
+**parry**
+The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues. At the beginning of the round, a player should know what his Defensive Bonus is against each of his opponents.
+
+For melee actions that are utilizing `parry`, the `Action Points` are considered **spent once the parry is used**. This prevents combatants from parrying then deciding to do something else. However, the actual attack occurs at the normal initiative even if the benefits from the parry are realized earlier (as the result of being attacked).
