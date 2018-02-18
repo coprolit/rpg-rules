@@ -15,11 +15,11 @@ Injuries (specific damage to a part of the body as a result of `criticals`) appl
 #### Severity
 Injuries are assigned a severity depending on the penalty or amount of bleeding:
 
-`light` - cause up to 5 hits per round, or a penalty of up to -20.
-
-`medium` - cause 6 to 10 hits per round, or a penalty of -21 to -50 (this category includes fractures with unspecified penalties)
-
-`severe` - cause more than 10 hits per round, or a penalty of more than -50 (this category includes shattered bones, destroyed organs, etc.).
+| Severity | Penalty | Bleeding | Other
+| --- | --- | --- | --- |
+`light` | -1 to -25 | 1-3/rnd |
+`medium` | -26 to -50 | 4-6/rnd | includes fractures with unspecified penalties
+`severe` | < -50 | 7+/rnd | includes shattered bones, destroyed organs, etc.
 
 #### Treatment
 `bandage` and `compress` stops up to **3 hits per round** (the hits per round will start again if the character does more than walk during next 8 hours).
