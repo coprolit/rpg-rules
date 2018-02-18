@@ -3,6 +3,8 @@
 - [**Dice rolling conventions**](dice-rolling-conventions.md)
 - [**Movement Rules**](movement-rules.md)
 - [**Tech skills**](skills.md)
+- [**Tactical Activity Tracking Rules**](tactical-activity-tracking.md)
+- Combat Rules
 
 # Character Activity Rules
 
