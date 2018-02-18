@@ -103,7 +103,7 @@ This represents an initial ‘clash of blades’ that could be anywhere from one
 The defender, assuming his weapon is readied and he is not engaged in other activities, does not get a penalty and can attack and parry as normal.
 
 #### Charging
-If a combatant closes into melee at high speed relative to defender, then he has the potential for a more damaging blow. This is called charging, which sacrifices accuracy (reflected in the penalty due to pace) in favor of power. A successful charge increases the power of the attack based on the charger’s **relative** speed:
+If a combatant closes into melee at high speed relative to defender, then he has the potential for a more damaging blow. This is called charging, which sacrifices accuracy (reflected in the penalty due to pace) in favor of power. A successful charge increases the power of the attack based on the charger’s speed:
 
 | relative speed | hits | critical |
 | --- | --- | --- |
