@@ -92,6 +92,14 @@ Some actions occur so quickly they are treated as instantaneous (0 AP); the firs
 #### Round to Round Actions
 A few actions may require more than 4 AP such as donning or removing armor, or picking a complicated lock. These actions take multiple rounds to complete and must usually be performed uninterrupted by other actions (although they may be combined with other actions such as movement).
 
+#### Conditional Actions
+A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” (and AP is spend) when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
+
+Conditional actions can be held for as many rounds as the character can maintain unbroken concentration.
+
+#### Canceling action
+An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
+
 #### Movement
 Movement is a unique action during the combat round, because it is often combined with other actions, such as
 shooting while moving forward, advancing while drawing a weapon, or charging into combat. An [action penalty](https://github.com/coprolit/rpg-rules/blob/master/movement-rules.md) based on one’s movement pace applies to all other actions performed in the round.
@@ -110,14 +118,6 @@ If a combatant closes into melee at high speed relative to defender, then he has
 3 m/s | x2 | +1
 6 m/s | x3 | +2
 12 m/s | x4 | +3
-
-#### Conditional Actions
-A conditional action is a **held action** that will be triggered when certain conditions are met. The combatant declares a specific trigger and action on his initiative, and it is considered “ready” (and AP is spend) when it would normally resolve. The action is resolved when (and if) the trigger condition occurs (often on someone else’s initiative).
-
-Conditional actions can be held for as many rounds as the character can maintain unbroken concentration.
-
-#### Canceling action
-An action may be canceled before it is resolved. Depending on how stressful the cancelled action was, this may require an `Orientation Maneuver`.
 
 #### Parry
 The amount of `parry` to be used and who it will be used against must be announced at the beginning of the round, or as soon as melee ensues. At the beginning of the round, a player should know what his Defensive Bonus is against each of his opponents.
