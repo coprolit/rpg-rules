@@ -8,7 +8,7 @@
 - **Encumbrance speed penalty** m/s = (carried load kg - load allowance kg) * 0.02
 - **Load allowance** kg = (18 kg + (x2 strength bonus - 50) / 100 * 18)
 
-`Moving Rate` - `EMR` x Pace multiplier
+`MR` - **Actual Moving Rate** m/s = `EMR` x Pace multiplier
 
 Pace multiplier | Description | Pace penalty to simultaneous maneuvers | MM difficulty
 --- | --- | --- | ---
