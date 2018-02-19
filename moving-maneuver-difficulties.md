@@ -1,4 +1,26 @@
-## Sample moving maneuver difficulties:
+# Movement Maneuvers
+**Encumbrance MM penalty** = -20 x load / load allowance
+
+For normal movement, a `maneuver roll` is not required; however, for stressful situations such as moving in rough terrain or while stunned, a roll is required (using the appropriate skill of Running, Swimming, etc.). For example, a combatant who is running in a zigzag toward an enemy outpost should make a roll; likewise, a `maneuver roll` is called for if a combatant is stunned or moving across slick ground, broken terrain, or other similar obstacles.
+
+MM task results apply as normal. The result is the percentage of the distance they would normally move given their rate of speed.
+
+**Terrain Modifiers (Running)** | -
+--- | ---
+Perfectly flat and uniform terrain | Easy (+20)
+Nearly flat surface with no obstacles | Light (+10)
+Mostly flat and open area | Medium (0)
+Rough and rocky road, furnished room | Hard (-10)
+Sloping and rocky, people in the way | Very Hard (-20)
+Modest slopes/rocks, light crowd | Extremely Hard (-30)
+Numerous obstacles, steep, crowds | Sheer Folly (-50)
+Dense obstacles, packed crowd | Absurd (-70)
+Sheer cliff, tightly packed crowd | Nigh Impossible (-100)
+
+### Sample moving maneuver difficulties:
+If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
+
+(Athletic – Ag/St – All-or-nothing)
 
 | Description | Difficulty |
 | --- | --- |
@@ -54,7 +76,3 @@ A small statuette | Routine
 Average handheld device | Medium
 Starship hullmetal (20) | Absurd
 Microfusion generator shielding (20) | Absurd
-
-If no skill applies to the maneuver, add three times the character’s Ag stat bonus.
-
-(Athletic – Ag/St – All-or-nothing)
