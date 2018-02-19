@@ -22,9 +22,10 @@ Injuries are assigned a severity depending on the penalty or amount of bleeding:
 `severe` | < -50 | 7+/rnd | includes shattered bones, destroyed organs, etc.
 
 #### Treatment
-`bandage` and `compress` stops up to **3 hits per round** (the hits per round will start again if the character does more than walk during next 8 hours).
+Untreated injuries will likely result in permanent injury (penalties) or death.
 
-`tourniquet` stops up to **10 hits per round** (until the wound is healed the tourniquet must be loosened once every 24 rounds, and 3 hits per round will be taken for 5 rounds).
+Attempts at treament of any `light` injury (or slowing or halting the effects of some `medium` or `severe` injuries) require a `Maneuver Roll` using the **First Aid** skill and proper field equipment. More complicated problems require surgery using the **Medical Practice** skill and hospital equipment.
+
 
 #### Recovery from injuries
 When an injury is treated, a recovery roll is made to determine how long it takes to recover:
