@@ -28,7 +28,7 @@ Base initiative is rolled once at the start of any time-sensitive, tactical situ
 
 `Base Initiative` = **2d10 + Qu - (1 for every -10 penalty)**
 
-The actual initiatives that actions are declared and resolved on are based on how many `Actions Points` the combatant has remaining. Add **5 for every for every AP left**. Actions are declared before the Action Points are spent, and are resolved after the Action Points are spent. 
+The actual initiatives that actions are declared and resolved on are based on how many `Actions Points` the combatant has remaining. Add **5 for every AP left**. Actions are declared before the Action Points are spent, and are resolved after the Action Points are spent. 
 
 `Actual Initiative` = **Base Initiative + (remaining Action Points x 5)**
 
@@ -66,7 +66,7 @@ Dodge | 4 |
 Ammo reload | 6 |
 Use shield in melee | 0 |
 _ | |
-Movement | special | 1 pace change allowed per tick
+Movement | special | x2 pace change allowed per AP spend
 Mount/dismount | 4 |
 Rapid dismount | 2 |
 Prone <-> Stand | 1 |
