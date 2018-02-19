@@ -1,10 +1,14 @@
 # Movement Rules
 ### Moving Rate and Pace
-`BMR`: **Base Moving Rate** (pr. second) = 1.2 m/s + Quickness/2 + Stride
+`BMR` - **Base Moving Rate** m/s = stride length x stride frequency
+- **Stride length** m = height m x 0,415
+- **Stride frequency** steps/s = 1.8 steps/second + (2x Qu bonus - 50) / 100 * 1,8
 
-`Moving Rate`: **BMR**  x Pace multiplier
+`EMR` - **Encumbered Moving Rate** m/s = BMR - encumbrance speed penalty m/s
+- **Encumbrance speed penalty** m/s = (carried load kg - load allowance kg) * 0.02
+- **Load allowance** kg = (18 kg + (x2 strength bonus - 50) / 100 * 18)
 
-A character can change his `pace` multiple up or down by 1 multiple each second he is moving.
+`Moving Rate`: **EMR** x Pace multiplier
 
 Pace multiplier | Description | Pace penalty to simultaneous maneuvers | MM difficulty
 --- | --- | --- | ---
