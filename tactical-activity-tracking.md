@@ -26,7 +26,7 @@ Initiative is rolled anew every round by every combatant and determines the orde
 
 Base initiative is rolled once at the start of any time-sensitive, tactical situation:
 
-`Base Initiative` = **2d10 + Qu - (1 for every -10 penalty)**
+`Base Initiative` = **2d10 + Qu bonus - (1 for every -10 penalty)**
 
 The actual initiatives that actions are declared and resolved on are based on how many `Actions Points` the combatant has remaining. Add **5 for every AP left**. Actions are declared before the Action Points are spent, and are resolved after the Action Points are spent. 
 
