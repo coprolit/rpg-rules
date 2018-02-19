@@ -1,10 +1,12 @@
 # Movement Rules
 ### Moving Rate and Pace
-`BMR` - **Base Moving Rate** m/s = stride length x stride frequency
+#### Base Moving Rate
+`BMR` m/s = stride length x stride frequency
 - **Stride length** m = height m x 0,415
 - **Stride frequency** steps/s = 1.8 steps/second + (2x Qu bonus - 50) / 100 * 1,8
 
-`EMR` - **Encumbered Moving Rate** m/s = BMR - encumbrance speed penalty m/s
+#### Encumbered Moving Rate
+`EMR` m/s = `BMR` - encumbrance speed penalty m/s
 - **Encumbrance speed penalty** m/s = (carried load kg - load allowance kg) * 0.02
 - **Load allowance** kg = (18 kg + (x2 strength bonus - 50) / 100 * 18)
 
@@ -24,7 +26,10 @@ x5 | Dash | -100 | Medium
 - Characters can move no faster than **brisk** backwards, and the maneuver penalty is **doubled**. He suffers a penalty of -10 (backwards creep), -20 (backwards walk), or -40 (backwards brisk) while fighting.
 - Characters who are prone can move no faster than **walk** pace, and the maneuver penalty is **quadrupled**.
 
-For normal movement, a roll is not required; however, for stressful situations such as moving in rough terrain or while stunned, a movement roll is required (using the appropriate skill of Running, Swimming, etc.). For example, a combatant who is running in a zigzag toward an enemy outpost should make a maneuver roll; likewise, a maneuver roll is called for if a combatant is stunned or moving across slick ground, broken terrain, or other similar obstacles.
+### Movement Maneuvers
+**Encumbrance MM penalty** = -20 x load / load allowance
+
+For normal movement, a `maneuver roll` is not required; however, for stressful situations such as moving in rough terrain or while stunned, a roll is required (using the appropriate skill of Running, Swimming, etc.). For example, a combatant who is running in a zigzag toward an enemy outpost should make a maneuver roll; likewise, a maneuver roll is called for if a combatant is stunned or moving across slick ground, broken terrain, or other similar obstacles.
 
 MM task results apply as normal. The result is the percentage of the distance they would normally move given their rate of speed.
 
