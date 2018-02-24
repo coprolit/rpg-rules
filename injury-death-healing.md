@@ -15,11 +15,11 @@ Injuries (specific damage to a part of the body as a result of `criticals`) appl
 #### Severity
 Injuries are assigned a severity depending on the penalty or amount of bleeding:
 
-| Severity | Penalty | Bleeding | Other
-| --- | --- | --- | --- |
-`light` | -1 to -25 | 1-3/rnd |
-`medium` | -26 to -50 | 4-6/rnd | broken bones, fractures with unspecified penalties
-`severe` | < -50 | 7+/rnd | shattered bones, destroyed organs, etc.
+| Severity | Penalty | Bleeding | Broken Bones | Organ | Muscles, Tendons, Cartilage & Ligament |
+| --- | --- | --- | --- | --- | --- |
+`light` | -1 to -25 | 1-3/rnd | simple fractures | |
+`medium` | -26 to -50 | 4-6/rnd | compound fractures with unspecified penalties | |
+`severe` | < -50 | 7+/rnd | shattered bones | destroyed organs | severed tendon, ligament, or muscle
 
 #### Treatment
 Untreated injuries will likely result in permanent injury (penalties) or death.
