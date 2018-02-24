@@ -1,7 +1,7 @@
 # Injury, death, healing rules
 
 ### Hits taken
-Hits represent light injuries (bruises, cuts), general pain, minor blood loss, the will to keep fighting and hold on consciousness.
+Hits represent bruises, cuts, general pain, minor blood loss, the will to keep fighting and hold on consciousness.
 
 #### Unconsciousness
 A character reduced to 0 or less hits will fall unconscious. Characters at less than full hits will feel bruised, beaten and shaken.
@@ -18,14 +18,13 @@ Injuries are assigned a severity depending on the penalty or amount of bleeding:
 | Severity | Penalty | Bleeding | Other
 | --- | --- | --- | --- |
 `light` | -1 to -25 | 1-3/rnd |
-`medium` | -26 to -50 | 4-6/rnd | includes fractures with unspecified penalties
-`severe` | < -50 | 7+/rnd | includes shattered bones, destroyed organs, etc.
+`medium` | -26 to -50 | 4-6/rnd | broken bones, fractures with unspecified penalties
+`severe` | < -50 | 7+/rnd | shattered bones, destroyed organs, etc.
 
 #### Treatment
 Untreated injuries will likely result in permanent injury (penalties) or death.
 
 Attempts at treament of any `light` injury (or slowing or halting the effects of some `medium` or `severe` injuries) require a `Maneuver Roll` using the **First Aid** skill and proper field equipment. More complicated problems require surgery using the **Medical Practice** skill and hospital equipment.
-
 
 #### Recovery from injuries
 When an injury is treated, a recovery roll is made to determine how long it takes to recover:
@@ -33,8 +32,9 @@ When an injury is treated, a recovery roll is made to determine how long it take
 
 Half recovery time if the victim is hospitalied or placed in some other special care.
 
-### Death
-A character can die if he takes enough damage to reach negative hits greater than his Body Development skill bonus (e.g., a character with +67 Body Development will die when he reaches -68 hits).
+#### Death
+A character can die if he takes enough damage to reach negative hits greater than his Body Development skill bonus.
+_e.g., a character with +67 Body Development will die when he reaches -68 hits._
 
 The soul will depart the body in five minutes. If someone heals enough of these hits (before the five minutes are up) to drop the
 total under the sum mentioned above, then death will not occur due to excessive hits.
