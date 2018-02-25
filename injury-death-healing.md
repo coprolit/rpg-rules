@@ -10,21 +10,29 @@ A character reduced to 0 or less hits will fall unconscious. Characters at less 
 1 per hour if the character rests (1 per three hours if the character is active).
 
 ### Injuries
-Injuries (specific damage to a part of the body as a result of `criticals`) apply a penalty that represents the pain and incapacity caused by the injury. They require longer recovery even after being treated.
+Injuries occur as a result of damage from a `critical` strike and apply a penalty that represents the pain and incapacity caused by the injury. They require longer recovery even after being treated.
 
 #### Severity
 Injuries are assigned a severity depending on the penalty or amount of bleeding:
 
 | Severity | Penalty | Bleeding | Broken Bones | Organ | Muscles, Tendons, Cartilage & Ligament |
 | --- | --- | --- | --- | --- | --- |
-`light` | -1 to -25 | 1-3/rnd | simple fractures | |
+`light` | -1 to -25 | 1-3/rnd | sprains, simple fractures | |
 `medium` | -26 to -50 | 4-6/rnd | compound fractures with unspecified penalties | |
 `severe` | < -50 | 7+/rnd | shattered bones | destroyed organs | severed tendon, ligament, or muscle
 
 #### Treatment
 Untreated injuries will likely result in permanent injury (penalties) or death.
 
-Attempts at treament of any `light` injury (or slowing or halting the effects of some `medium` or `severe` injuries) require a `Maneuver Roll` using the **First Aid** skill and proper field equipment. More complicated problems require surgery using the **Medical Practice** skill and hospital equipment.
+##### First Aid
+The **First Aid** skill enable treament of any `light` injury if utilizing the necessary equipment (e.g. skin sealer for light bleeding, splints and casts for light sprains and fractures).
+
+In addition, this skill can be used to slow or halt the effects of `medium` or `severe` injuries (e.g. reducing bleeding rate, set medium fractures and stop associated deterioration).
+
+**First Aid** is generally ineffective when dealing with `medium` or `severe` nerve or organ damage. 
+
+##### Medical Practice
+Complicated problems, like `medium` or `severe` nerve or organ damage, require surgery using the **Medical Practice** skill and proper hospital equipment.
 
 #### Recovery from injuries
 When an injury is treated, a recovery roll is made to determine how long it takes to recover:
