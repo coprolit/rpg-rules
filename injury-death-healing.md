@@ -30,7 +30,7 @@ The **First Aid** skill enable treament of minor injuries if utilizing the neces
 - **Skin sealer** can be used to stop the bleeding of minor wounds or slow the bleeding of more serious wounds
 - **Splints** and **casts** can be used to stabilize sprains and fractures (and stop associated deterioration). For a leg, the patient cannot move faster than a walk, and for arms the limb is unusable while in the splint, but the limb is kept stable.
 
-**First Aid** is generally ineffective when dealing with `medium` or `severe` nerve or organ damage. 
+**First Aid** is generally ineffective when dealing with `medium` or `severe` injuries. 
 
 ##### Surgery
 Complicated problems, like `medium` or `severe` shattered bones, or severed tendons/ligaments/muscles, or nerve/organ damage, require surgery using the **Medical Practice** skill and proper hospital equipment.
