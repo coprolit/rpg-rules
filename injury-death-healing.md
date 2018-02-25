@@ -28,7 +28,7 @@ Untreated injuries will likely result in permanent injury (penalties) or death.
 The **First Aid** skill enable treament of minor injuries if utilizing the necessary equipment:
 
 - **Skin sealer** can be used to stop the bleeding of minor wounds or slow the bleeding of more serious wounds
-- **Splints** and **casts** can be used to stabilize sprains and fractures (stop associated deterioration). For a leg, the patient cannot move faster than a walk, and for arms the limb is unusable while in the splint, but the limb is kept stable.
+- **Splints** and **casts** can be used to stabilize sprains and fractures (and stop associated deterioration). For a leg, the patient cannot move faster than a walk, and for arms the limb is unusable while in the splint, but the limb is kept stable.
 
 **First Aid** is generally ineffective when dealing with `medium` or `severe` nerve or organ damage. 
 
