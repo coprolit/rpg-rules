@@ -41,6 +41,11 @@ When an injury is treated, a recovery roll is made to determine how long it take
 
 Half recovery time if the victim is hospitalied or placed in some other special care.
 
+#### Permanent Damage
+In case of `severe` wounds there's a change of permanent damage.
+
+Make an `open-ended roll`, adding Constitution stat value: Results of 101+ = no permanent damage. The greater the difference, the worse the permanent damage.
+
 #### Death
 A character can die if he takes enough damage to reach negative hits greater than his Body Development skill bonus.
 _e.g., a character with +67 Body Development will die when he reaches -68 hits._
