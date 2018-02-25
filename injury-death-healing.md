@@ -17,8 +17,8 @@ Injuries are assigned a severity depending on the penalty or amount of bleeding:
 
 | Severity | Penalty | Bleeding | Broken Bones | Organ | Muscles, Tendons, Cartilage & Ligament |
 | --- | --- | --- | --- | --- | --- |
-`light` | -1 to -25 | 1-3/rnd | sprains, simple fractures | |
-`medium` | -26 to -50 | 4-6/rnd | compound fractures, and fractures with unspecified penalties | | smashed
+`light` | -1 to -25 | 1-3/rnd | simple fractures | | sprains, strains
+`medium` | -26 to -50 | 4-6/rnd | compound fractures, and fractures with unspecified penalties | | smashed, tear or dislocation
 `severe` | < -50 | 7+/rnd | shattered bones | destroyed | severed
 
 #### Treatment
@@ -33,7 +33,7 @@ The **First Aid** skill enable treament of minor injuries if utilizing the neces
 **First Aid** is generally ineffective when dealing with `medium` or `severe` nerve or organ damage. 
 
 ##### Surgery
-Complicated problems, like `medium` or `severe` shattered bones, nerve or organ damage, require surgery using the **Medical Practice** skill and proper hospital equipment.
+Complicated problems, like `medium` or `severe` shattered bones, or severed tendons/ligaments/muscles, or nerve/organ damage, require surgery using the **Medical Practice** skill and proper hospital equipment.
 
 #### Recovery from injuries
 When an injury is treated, a recovery roll is made to determine how long it takes to recover:
