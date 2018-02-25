@@ -18,8 +18,8 @@ Injuries are assigned a severity depending on the penalty or amount of bleeding:
 | Severity | Penalty | Bleeding | Broken Bones | Organ | Muscles, Tendons, Cartilage & Ligament |
 | --- | --- | --- | --- | --- | --- |
 `light` | -1 to -25 | 1-3/rnd | sprains, simple fractures | |
-`medium` | -26 to -50 | 4-6/rnd | compound fractures with unspecified penalties | |
-`severe` | < -50 | 7+/rnd | shattered bones | destroyed organs | severed tendon, ligament, or muscle
+`medium` | -26 to -50 | 4-6/rnd | compound fractures, and fractures with unspecified penalties | | smashed
+`severe` | < -50 | 7+/rnd | shattered bones | destroyed | severed
 
 #### Treatment
 Untreated injuries will likely result in permanent injury (penalties) or death.
