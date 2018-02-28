@@ -2,11 +2,11 @@
 ### Moving Rate and Pace
 `BMR` - **Base Moving Rate** m/s = stride length x stride frequency
 - **Stride length** m = height m x 0,415
-- **Stride frequency** steps/s = 1.8 steps/second + (2x Qu bonus - 50) / 100 * 1,8
+- **Stride frequency** steps/s = 1.8 steps/second + (2x Qu bonus / 100 * 1,8)
 
 `EMR` - **Encumbered Moving Rate** m/s = `BMR` - encumbrance speed penalty m/s
 - **Encumbrance speed penalty** m/s = (carried load kg - load allowance kg) * 0.02
-- **Load allowance** kg = (18 kg + (x2 strength bonus - 50) / 100 * 18)
+- **Load allowance** kg = 18 kg + (x2 strength bonus / 100 * 18)
 
 `MR` - **Actual Moving Rate** m/s = `EMR` x Pace multiplier
 
