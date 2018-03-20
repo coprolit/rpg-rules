@@ -1,4 +1,4 @@
-#Tactical Activity Tracking Rules
+# Tactical Activity Tracking Rules
 
 `Round` - In a tactical situation, action is tracked in **rounds of five seconds**.
 
@@ -8,7 +8,7 @@
 
 `Action Points`- Actions are assigned a number of **Action Points** (AP) to represent the dedication or concentration required. Combatants receive **4 Action Points every round**, which may be spent among any number of actions.
 
-##Round
+## Round
 Tactical game time is tracked in `rounds` of approximately 5 seconds, with combatants taking turns to perform actions and movement.
 
 A round consists of 3 phases:
@@ -16,19 +16,19 @@ A round consists of 3 phases:
 - Declaration Phase
 - Resolution Phase
 
-###Initiative Phase
+### Initiative Phase
 Each combatants roll 2d10 + Qu bonus (+/- appropriate combat effects) to determine their initiative.
 
-###Declaration Phase
+### Declaration Phase
 Combatants declare actions for the round, in order from lowest initiative to highest.
 
 Combatants receive 4 Action Points every round, that may be spent among any number of actions.
 All combatants may move up to the maximum of their movement allowance. Normal movement, excluding Moving Maneuvers, has no AP cost.
 
-###Resolution Phase
+### Resolution Phase
 Combattants take turns and resolve their declared actions, in order from highest to lowest initiative.
 
-##Actions
+## Actions
 Actions include any activity the character performs including shooting, melee, or retrieving items from a backpack, etc.
 
 Actions are assigned a number of Action Points (AP) to represent the ‘dedication’ required:
