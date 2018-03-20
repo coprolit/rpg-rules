@@ -15,9 +15,11 @@ Stunned and unable to parry | -50* | cumulative | unable to attack and parry
 
 _* MM are modified by +3x SD bonus_
 
-_"You have initiative"_ =  Foe gets -1d10 to next initiative roll.
-_"next round"_ = next turn (this round or the next).
-_"for ß rounds"_ = beginning from target’s next turn (this round or the next).
+__"You have initiative"__ =  Foe gets -1d10 to next initiative roll.
+
+__"next round"__ = next turn (this round or the next).
+
+__"for ß rounds"__ = beginning from target’s next turn (this round or the next).
 
 ### Staggered or Prone
 Becoming staggered means that the combatant has been knocked off balance. A staggered result incurs a penalty of -25, and the combatant cannot attack, however the effect only lasts one round, no matter how many staggered results are received.
