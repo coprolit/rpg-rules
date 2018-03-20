@@ -25,6 +25,8 @@ Combatants declare `actions` for the `round`, in order from __lowest to highest_
 Combatants receive 4 `Action Points` every `round`, that may be spent among any number of `actions`.
 All combatants may move up to the maximum of their movement allowance. Normal movement, excluding `Moving Maneuvers`, has no AP cost.
 
+The amount of parry to be used and who it will be used against must be announced in this phase. At the beginning of the Resolution phase, a player should know what his Defensive Bonus is against each of his opponents.
+
 ### Resolution Phase
 Combatants take turns and resolve their declared `actions`, in order from __highest to lowest__ `initiative`.
 
