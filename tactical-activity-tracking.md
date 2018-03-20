@@ -38,7 +38,7 @@ Actions include any activity the character performs including shooting, melee, o
 
 Actions are assigned a number of Action Points (AP) to represent the ‘dedication’ required:
 
-| Action | AP cost | - |
+| Action | AP-cost | - |
 | --- | --- | --- |
 Ranged Attack | 1-3* |
 Melee Attack/Parry |2-4* |
