@@ -38,14 +38,14 @@ Actions include any activity the character performs including shooting, melee, o
 
 Actions are assigned a number of Action Points (AP) to represent the ‘dedication’ required:
 
-| Action | AP-cost | - |
+| Action | AP cost | - |
 | --- | --- | --- |
 Ranged Attack | 1-3* |
-Melee Attack/Parry |2-4* |
-Thrown Attack |2-4* |
+Melee Attack/Parry | 2-4* |
+Thrown Attack | 2-4* |
 Dodge | 4 |
 Ammo reload | 6 |
-_ | |
+___ | ___ |
 x2 pace change | 1 |
 Mount/dismount | 4 |
 Rapid dismount | 2 |
@@ -63,7 +63,7 @@ Shift item to other hand | 1 |
 _ | |
 Eat or drink (medicals) | 2 |
 Power supply reload | 8 |
-Apply first aid | 8 |per hit/round
+Apply first aid | 8 | per hit/round
 Pick Lock / Disarm Trap | 20 |
 Misc. Static Action | 8+ |
 
