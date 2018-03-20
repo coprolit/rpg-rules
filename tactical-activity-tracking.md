@@ -53,7 +53,7 @@ Prone <-> Stand | 1 |
 Moving Maneuvers | 1+ |
 _ | |
 Perception | 1-2* |
-Orientation Maneuver | 0 | ####Failure = can perform no further actions in round, ####Partial success = Stunned 1 round, *Near success* = Dazed 1 round, *Success* = No effect
+Orientation Maneuver | 0 | #### Failure = can perform no further actions in round, #### Partial success = Stunned 1 round, *Near success* = Dazed 1 round, *Success* = No effect
 _ | |
 Draw weapon/ammo/item | 1 |
 Sheath weapon/ammo/item | 2 |
