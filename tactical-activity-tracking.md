@@ -45,7 +45,7 @@ Melee Attack/Parry | 2-4* |
 Thrown Attack | 2-4* |
 Dodge | 4 |
 Ammo reload | 6 |
-___ | _______ |
+_ | |
 x2 pace change | 1 |
 Mount/dismount | 4 |
 Rapid dismount | 2 |
@@ -66,5 +66,6 @@ Power supply reload | 8 |
 Apply first aid | 8 | per hit/round
 Pick Lock / Disarm Trap | 20 |
 Misc. Static Action | 8+ |
+___________ | _________ |
 
 _* Actions with a range of AP can be performed at a penalty of -25 for each AP less than the normal maximum._
