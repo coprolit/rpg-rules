@@ -11,7 +11,7 @@
 ## Round
 Tactical game time is tracked in `rounds` of approximately 5 seconds, with combatants taking turns to perform actions and movement.
 
-A round consists of 3 phases:
+A round consists of 4 phases:
 - Initiative Phase
 - Declaration Phase
 - Resolution Phase
@@ -26,7 +26,11 @@ Combatants receive 4 Action Points every round, that may be spent among any numb
 All combatants may move up to the maximum of their movement allowance. Normal movement, excluding Moving Maneuvers, has no AP cost.
 
 ### Resolution Phase
-Combattants take turns and resolve their declared actions, in order from highest to lowest initiative.
+Combatants take turns and resolve their declared actions, in order from highest to lowest initiative.
+End of turn each combatant:
+- subtracts hits due to bleeding.
+- reduces stun effects 1 round, starting with the most severe effect (Stunned/Unable to Parry, then Stunned, then Dazed).
+- removes any staggered effect.
 
 ## Actions
 Actions include any activity the character performs including shooting, melee, or retrieving items from a backpack, etc.
@@ -35,7 +39,7 @@ Actions are assigned a number of Action Points (AP) to represent the ‘dedicati
 
 | Action | AP cost | - |
 | --- | --- | --- |
-Ranged Attack|1-3*|
+Ranged Attack | 1-3* |
 Melee Attack/Parry|2-4*|
 Thrown Attack|2-4*|
 Dodge|4|
