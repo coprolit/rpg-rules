@@ -66,6 +66,6 @@ Power supply reload | 8 |
 Apply first aid | 8 | per hit/round
 Pick Lock / Disarm Trap | 20 |
 Misc. Static Action | 8+ |
-__________________________ | _________ |
+____________________________________ | _________ |
 
 _* Actions with a range of AP can be performed at a penalty of -25 for each AP less than the normal maximum._
