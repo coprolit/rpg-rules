@@ -5,31 +5,32 @@ The amount of parry to be used and who it will be used against must be announced
 
 ## Effects from criticals.
 
-| State | MM Penalty | Duration | Other |
-| --- | --- | --- | --- |
-Staggered (or Knocked Prone) | -25* | max one round | unable to attack
-Knocked Back | -25* | max one round | unable to attack
-Dazed | -25* | cumulative |
-Stunned | -50* | cumulative | unable to attack, can parry with half of OB
-Stunned and unable to parry | -50* | cumulative | unable to attack and parry
-
-_* MM are modified by +3x SD bonus_
-
 __"You have initiative"__ =  Foe gets -1d10 to next initiative roll.
 
 __"next round"__ = next turn (this round or the next).
 
 __"for ß rounds"__ = beginning from target’s next turn (this round or the next).
 
+| State | Maneuver Penalty | Duration | Other |
+| --- | --- | --- | --- |
+Staggered (or Knocked Prone) | -25* | max one round | unable to attack
+Knocked Back | -25* | max one round | unable to attack
+| --- | --- | --- | --- |
+Dazed | -25* | cumulative |
+Stunned | -50* | cumulative | unable to attack, can parry with half of OB
+Stunned and unable to parry | -50* | cumulative | unable to attack and parry
+
+_* modified by +3x SD bonus_
+
 ### Staggered or Prone
 Becoming staggered means that the combatant has been knocked off balance. A staggered result incurs a penalty of -25, and the combatant cannot attack, however the effect only lasts one round, no matter how many staggered results are received.
 
-If a combatant is knocked prone, he is also automatically staggered. Prone means the target has been thrown flat to the floor and is subject to the usual modifiers to action for prone position, and he must take a 1 Action Point action to stand up again.
+If a combatant is knocked prone, he is also automatically staggered. Prone means the target has been thrown flat to the floor and is subject to the usual modifiers to action for prone position, and he must take a 1 `Action Point` action to stand up again.
 
 ### Knocked Back
 Being knocked back will move the character in a given direction for a distance in feet indicated by the critical result. The character will arrive at that point staggered per above and, depending on terrain, may suffer additional effects.
 
-### Stun
+### Stunned
 A stun means the combatant has been knocked hard enough to disorient and put him in a vulnerable state.
 There are three different types of stun; a defender under the effect of any form of stun cannot initiate useful attacks.
 
