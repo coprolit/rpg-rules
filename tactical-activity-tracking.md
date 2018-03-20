@@ -45,7 +45,7 @@ Melee Attack/Parry | 2-4* |
 Thrown Attack | 2-4* |
 Dodge | 4 |
 Ammo reload | 6 |
-___ | ___ |
+___ | _______ |
 x2 pace change | 1 |
 Mount/dismount | 4 |
 Rapid dismount | 2 |
