@@ -1,5 +1,13 @@
 # Combat Rules
 
+`DB` A combatant’s **Defensive Bonus** is modified by x3 his Quickness bonus or penalty.
+
+_A defender only has three times his Quickness stat bonus factored into his DB if he is aware that he is in a combat situation and is free to move._
+
+`OB` The **Offensive Bonus** is the attacker’s modifier to the attack roll. It consists of his skill bonus with the weapon used (modified for range if applicable), any special bonus granted by the weapon itself, and any additional modifiers imposed by the GM.
+
+_Some or all of this OB may be shifted to defense if desired._
+
 ## Attack Procedure
 1. Roll `open-ended` high.
 2. If the initial die roll falls within the fumble range for the weapon/attack, resolve the fumble. The attack procedure ends here. Otherwise, continue:
@@ -7,23 +15,22 @@
 4. Subtract your foe's DB from the adjust die total.
 5. Look up the modified result on the weapon attack table.
 
-There will be three possible results, a miss (denoted by a "-" in the table), a normal hit (denoted by a number; e.g., 8), or a critical hit (denoted by a number and a letter; e.g., 10D).
+There will be three possible results, a __miss__ (denoted by a "-" in the table), a __normal hit__ (denoted by a number; e.g., 8), or a __critical hit__ (denoted by a number and a letter; e.g., 10D).
 
 ## Combat Actions
 ### Parry Action
-Parrying requires that the character be wielding a weapon. Parry works as per RMSS. It is in effect for the duration of the "attack time" against any one attack that is "resolved" against the target during that time. (Parry has no affect on time)
+Parrying requires that the character be wielding a weapon. It is in effect for the duration of the current `round` and applies to any one attack that is "resolved" against the target during that time.
 
 ### Dodge Action
 When a character does not have a weapon (or cannot use their weapon) and want to avoid combat, a character can attempt to Dodge an attack. This is a dedicated attempt to avoid being hit by getting out of the way of the incoming attack.
 
-Extremely Hard `movement maneuver`. Add the average of the character’s Agility and Quickness bonuses, or the character’s Acrobatics skill. Any numeric results are applied to the character’s DB.
+To dodge is an __Extremely Hard__ `movement maneuver`. Add the average of the character’s Agility and Quickness bonuses, or the character’s Acrobatics skill. Any numeric results are applied to the character’s DB.
 
 If the result falls on the low end of the column, then the character has fumbled their attempt to Dodge and the results are applied. If the result falls on the high end of the table, then the character receives the highest numeric result on that chart column to their DB and the prose result is also applied accordingly.
 
 ## Melee
 Combatant is engaged in melee if:
 
-- A foe attacked in the previous second, and
 - That foe is still within striking distance (i.e., usually within 3m), and
 - That foe’s action for the current `round` is to melee the combatant.
 
