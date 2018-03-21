@@ -36,7 +36,7 @@ Any attempts to affect or harm an opponent with or without a weapon.
 Successful attacks beat down the target’s body and will to fight (`hits`) and may also cause specific acute injuries (`criticals`). Defenders can avoid injuries through dodging, parrying, or armor.
 
 Attacks are a special kind of maneuver where the maneuver roll is resolved on an appropriate attack table (specific for weapon type), often requiring a second roll on the `Fumble and Failure Tables` or a specific critical table.
-- Combat Rules
+- [Combat Rules](combat-rules.md)
 - [OB Modifiers](https://drive.google.com/open?id=1N1pcykiytz4mn3xdQHRkSuJltK1QSXYE)
 - [OB/DB Modifiers](ob-db-modifiers.md)
 - [hits taken modifiers](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
