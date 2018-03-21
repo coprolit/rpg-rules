@@ -11,8 +11,8 @@ _Some or all of this OB may be shifted to defense if desired._
 ## Attack Procedure
 1. Roll `open-ended` high.
 2. If the initial die roll falls within the fumble range for the weapon/attack, resolve the fumble. The attack procedure ends here. Otherwise, continue:
-3. Add your character's OB to the final die result .
-4. Subtract your foe's DB from the adjust die total.
+3. Add your character's `OB` to the final die result .
+4. Subtract your foe's `DB` from the adjust die total.
 5. Look up the modified result on the weapon attack table.
 
 There will be three possible results, a __miss__ (denoted by a "-" in the table), a __normal hit__ (denoted by a number; e.g., 8), or a __critical hit__ (denoted by a number and a letter; e.g., 10D).
