@@ -43,7 +43,13 @@ If a combatant closes into melee at high speed relative to defender, then he has
 6 m/s | x3 | +2
 12 m/s | x4 | +3
 
-## Effects from Criticals
+## Effects from Hits and Criticals
+
+__Hits__: Hits are applied to the character who received the damage immediately.
+
+__Penalties__: Penalties are applied immediately, and they will affect any relevant maneuvers or actions that the target may have declared.
+
+__Bleeding__: Any criticals that call for a number of hits per round or other specific instances of bleeding take place in the end of the target's next turn(s).
 
 __"You have initiative"__ =  Foe gets -1d10 to next initiative roll.
 
@@ -74,7 +80,7 @@ Being knocked back will move the character in a given direction for a distance i
 A stun means the combatant has been knocked hard enough to disorient and put him in a vulnerable state.
 There are three different types of stun; a defender under the effect of any form of stun cannot initiate useful attacks.
 
-__Dazed__ : A minor disorientation where the combatant is dizzy and unstable. He is at -25 to all maneuvers.
+__Dazed__: A minor disorientation where the combatant is dizzy and unstable. He is at -25 to all maneuvers.
 
 __Stunned__: The combatant has been hit seriously enough to disrupt his senses, and he is struggling to control his body.
 He may not attack, and only parry with half his OB. He is at -50 to all maneuvers.
