@@ -41,6 +41,7 @@ Attacks are a special kind of maneuver where the maneuver roll is resolved on an
 - [OB/DB Modifiers](ob-db-modifiers.md)
 - [hits taken modifiers](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 - [thrown rules](thrown-rules.md)
+- [weapon attack tables](https://drive.google.com/open?id=1tPDr4NFE08qQ8WbqCwjto16jS6B6MagT)
 
 #### Equipment Operation Maneuvers
 Any unusual use of equipment, equipment use under stress, or usage of unfamiliar technology.
