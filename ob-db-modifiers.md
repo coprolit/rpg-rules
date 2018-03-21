@@ -1,11 +1,3 @@
-`DB` A combatant’s **Defensive Bonus** is modified by three times his Quickness stat bonus or penalty. If the defender is wearing certain types of cumbersome armor, this tripled Quickness stat bonus may be reduced or eliminated completely by the armor’s Armor Quickness Penalty (but never below zero);
-
-_A defender only has three times his Quickness stat bonus factored into his DB if he is aware that he is in a combat situation and is free to move._
-
-`OB` The **Offensive Bonus** is the attacker’s modifier to the attack roll. It consists of his skill bonus with the weapon used (modified for range if applicable), any special bonus granted by the weapon itself, and any additional modifiers imposed by the GM.
-
-_Some or all of this OB may be shifted to defense if desired._
-
 ## Sample OB and DB modifiers
 
 ### Cover
