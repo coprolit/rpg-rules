@@ -17,7 +17,7 @@ A round consists of 4 phases:
 - Resolution Phase
 
 ### Initiative Phase
-Each combatants roll 2d10 + Qu bonus (+/- appropriate combat effects) to determine their `initiative`.
+Each combatants roll __2d10 + Quickness Bonus + Modifiers__ to determine their `initiative`.
 
 ### Declaration Phase
 Combatants declare `actions` for the `round`, in order from __lowest to highest__ `initiative`.
