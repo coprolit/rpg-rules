@@ -10,10 +10,10 @@
 There will be three possible results, a miss (denoted by a "-" in the table), a normal hit (denoted by a number; e.g., 8), or a critical hit (denoted by a number and a letter; e.g., 10D).
 
 ## Combat Actions
-### Parry action
+### Parry Action
 Parrying requires that the character be wielding a weapon. Parry works as per RMSS. It is in effect for the duration of the "attack time" against any one attack that is "resolved" against the target during that time. (Parry has no affect on time)
 
-### Dodge action
+### Dodge Action
 When a character does not have a weapon (or cannot use their weapon) and want to avoid combat, a character can attempt to Dodge an attack. This is a dedicated attempt to avoid being hit by getting out of the way of the incoming attack.
 
 Extremely Hard `movement maneuver`. Add the average of the character’s Agility and Quickness bonuses, or the character’s Acrobatics skill. Any numeric results are applied to the character’s DB.
@@ -26,6 +26,15 @@ Combatant is engaged in melee if:
 - A foe attacked in the previous second, and
 - That foe is still within striking distance (i.e., usually within 3m), and
 - That foe’s action for the current `round` is to melee the combatant.
+
+## Charging
+If a combatant closes into melee at high speed relative to defender, then he has the potential for a more damaging blow. This is called charging, which sacrifices accuracy (reflected in the penalty due to pace) in favor of power. A successful charge increases the power of the attack based on the charger’s speed:
+
+| relative speed | hits | critical |
+| --- | --- | --- |
+3 m/s | x2 | +1
+6 m/s | x3 | +2
+12 m/s | x4 | +3
 
 ## Effects from Criticals
 
