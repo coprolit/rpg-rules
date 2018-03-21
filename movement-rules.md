@@ -13,13 +13,13 @@
 Pace multiplier | Description | Pace penalty to simultaneous maneuvers | MM difficulty
 --- | --- | --- | ---
 x0.25 | Crawl / Climb / Swim | NA | see [MM rules](https://github.com/coprolit/rpg-rules/blob/master/moving-maneuver-difficulties.md)
-x½ | Creep / Slow Walk | -5 |
-x1 | Walk (base) | -10 |
-x1½ | Brisk | -20 |
-x2 | Jog | -30 |
-x3 | Run | -40 | Easy
-x4 | Sprint | -70 | Light
-x5 | Dash | -100 | Medium
+x½ | Creep / Slow Walk | 0 |
+x1 | Walk (base) | -5 |
+x1½ | Brisk | -10|
+x2 | Jog | -20 |
+x3 | Run | -30 | Easy
+x4 | Sprint | -50 | Light
+x5 | Dash | -70 | Medium
 
 - Characters can move no faster than **brisk** backwards, and the maneuver penalty is **doubled**. He suffers a penalty of -10 (backwards creep), -20 (backwards walk), or -40 (backwards brisk) while fighting.
 - Characters who are prone can move no faster than **walk** pace, and the maneuver penalty is **quadrupled**.
