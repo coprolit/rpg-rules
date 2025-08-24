@@ -59,7 +59,7 @@ Any observation, orientation, data-gathering activity.
 `Orientation roll` If a character takes a confusing action (e.g., teleports, dives, falls, is knocked down, etc.) or is surprised, the GM may need to determine the awareness and readiness of the character. In this case, the GM may require an `orientation roll` -20.
 
 #### Pick locks/Disarm traps/Bypass Maneuvers
-Any kind of mechanical, electronic or software override.
+Any kind of mechanical, electronic or software override. The act of identifying and then exploiting weaknesses in a system.
 - **Picking Locks And Disarming Traps** column, [`Alternate Personal Maneuver Chart`](https://drive.google.com/open?id=18acBn2E4YGCWU7FnnDhlgLs6DiDdeMaj)
 - [`Modifiers`](https://drive.google.com/open?id=1tnytSikTJTY5FBkvswJ8UqsOrPB_taW_)
 
