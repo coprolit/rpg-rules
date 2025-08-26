@@ -10,7 +10,7 @@
 
 The type of action a character can perform during play are most commonly classified as either a `simple action` or a `Maneuver` (complex action).
 
-`simple actions` are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, operating an information terminal, using a screwdriver, etc. and **do not require any rolls to resolve** (the player simply states what he intends his character to do).
+Simple actions are normal movement and routine activities such as breathing, eating, walking, climbing stairs, drawing a weapon, operating an information terminal, using a screwdriver, etc. and **do not require any rolls to resolve** (the player simply states what he intends his character to do).
 
 ## Maneuvers
 `Maneuvers` are actions which under normal circumstances have a chance of failing and usually entail an element of risk.
