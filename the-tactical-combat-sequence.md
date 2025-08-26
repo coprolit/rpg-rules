@@ -1,4 +1,4 @@
-# Tactical Activity Tracking Rules
+# The Tactical Combat Sequence
 
 `Round` - In a tactical situation, action is tracked in **rounds of five seconds**.
 
