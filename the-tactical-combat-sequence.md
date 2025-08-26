@@ -37,7 +37,7 @@ Combatants may normally use up to a total of 100% activity in a single round.
 
 | Activity | percentages |
 | --- | --- |
-Movement | Minimum 10%
+Movement / Moving Maneuver | Minimum 10%
 Melee Attack/Parry | 60%-100%
 Ranged Attack | 30%-60%
 Dodge | 50%-100%
@@ -46,7 +46,6 @@ Draw weapon/ammo/item | 20%
 Changing weapons | 50%
 Perception Roll | 10%-30%
 Static Maneuver | Minimum 100%
-Moving Maneuver | 
 Simple Actions (GM's Discretion) | 10%-30%
 Complex Actions (GM's Discretion) | 20%-100
 
