@@ -1,7 +1,7 @@
 *This is intended as a quick reference for commonly used rules and charts during play.*
 
 - [**Dice rolling conventions**](dice-rolling-conventions.md)
-- [**Tactical Activity Tracking Rules**](tactical-activity-tracking.md)
+- [**The Tactical Combat Sequence**](the-tactical-combat-sequence.md)
 - [**Combat Rules**](combat-rules.md)
 - [**Movement Rules**](movement-rules.md)
 - [**Tech skills**](skills.md)
