@@ -15,9 +15,9 @@ After all actions have been resolved the GM and players resolves any ongoing eff
 
 A round consists of 3 steps:
 
-#### Step 1: Roll Initiative
-#### Step 2: Resolve Actions
-#### Step 3: Upkeep
+- Step 1: __Roll Initiative__
+- Step 2: __Resolve Actions__
+- Step 3: __Upkeep__
 
 ### Initiative Step
 Each combatants roll __2d10 + Quickness Bonus + Modifiers__ to determine their `initiative`.
@@ -33,6 +33,7 @@ Each combatants roll __2d10 + Quickness Bonus + Modifiers__ to determine their `
 Combatants take turns and resolve `actions`, in order from __highest to lowest__ `initiative`. 
 
 Each action takes a percentage of the character’s activity to accomplish, representing the ‘dedication’ required.
+
 Combatants may normally use up to a total of 100% activity in a single round.
 
 | Activity | percentages |
